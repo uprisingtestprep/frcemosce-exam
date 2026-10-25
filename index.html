@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FRCEM OSCE Practice Stations</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="gate-screen" class="screen">
+  <div class="gate-box">
+    <div class="brand">Uprising Test Prep</div>
+    <h1>FRCEM OSCE Practice Stations</h1>
+    <p class="muted">Enter your access code to begin.</p>
+    <input id="access-code-input" type="text" placeholder="Access Code" autocomplete="off">
+    <button id="gate-submit" class="btn btn-primary">Enter</button>
+    <p id="gate-error" class="error"></p>
+  </div>
+</div>
+
+<div id="home-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <div>
+      <div class="brand">Uprising Test Prep</div>
+      <h1>FRCEM OSCE Practice Stations</h1>
+    </div>
+    <div class="header-actions">
+      <a href="flashcards/index.html" target="_blank" class="btn btn-ghost">Flashcards</a>
+    </div>
+  </header>
+
+  <div class="home-body">
+    <p class="muted home-intro">
+      80 practice stations across 5 full circuits of 16. Each circuit uses the official
+      1-minute reading and 8-minute station timing, includes 3 resuscitation stations,
+      and adds 2 practice rest stations. Choose how you want to practice below.
+    </p>
+    <div class="home-modes">
+      <div class="mode-card" id="mode-browse">
+        <h2>Browse All Stations</h2>
+        <p>Pick any of the 80 stations individually, filter by station category, and practice them in
+          any order.</p>
+        <button class="btn btn-primary btn-block">Browse Stations</button>
+      </div>
+      <div class="mode-card" id="mode-circuit">
+        <h2>Practice a Full Circuit</h2>
+        <p>Choose one of the 5 practice circuits and step through 16 scored slots plus
+          2 practice rest stations in exam order.</p>
+        <button class="btn btn-primary btn-block">Choose a Circuit</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="circuit-select-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="back-to-home-from-circuit" class="btn btn-ghost">&#8592; Home</button>
+    <div>Choose a Circuit</div>
+  </header>
+  <div id="circuit-select-list" class="circuit-select-list"></div>
+</div>
+
+<div id="list-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="back-to-home-from-list" class="btn btn-ghost">&#8592; Home</button>
+    <div>
+      <div class="brand">Uprising Test Prep</div>
+      <h1>80 Practice Stations</h1>
+    </div>
+    <div class="header-actions">
+      <a href="flashcards/index.html" target="_blank" class="btn btn-ghost">Flashcards</a>
+    </div>
+  </header>
+
+  <div class="filters">
+    <select id="filter-content-area">
+      <option value="">All Content Areas</option>
+    </select>
+    <select id="filter-type">
+      <option value="">All Station Types</option>
+      <option value="interactive_sp">Interactive Station (Patient or Relative)</option>
+      <option value="interactive_hp">Interactive Station (Health Professional)</option>
+      <option value="team_resus">Simulated Team Resuscitation</option>
+      <option value="practical_skill">Practical or Procedural Skill</option>
+      <option value="teaching">Supervision or Teaching</option>
+      <option value="critical_appraisal">Critical Appraisal Discussion</option>
+      <option value="non_interactive_written">Non-Interactive Written Task</option>
+    </select>
+    <span id="station-count" class="muted"></span>
+  </div>
+
+  <div id="station-list" class="station-list"></div>
+</div>
+
+<div id="circuit-complete-screen" class="screen" style="display:none">
+  <div class="gate-box circuit-complete-box">
+    <div class="brand">Uprising Test Prep</div>
+    <h1>Circuit Complete</h1>
+    <p class="muted" id="circuit-complete-text"></p>
+    <div class="timer-controls">
+      <button id="circuit-complete-restart" class="btn btn-primary">Practice This Circuit Again</button>
+      <button id="circuit-complete-choose" class="btn btn-ghost">Choose Another Circuit</button>
+      <button id="circuit-complete-home" class="btn btn-ghost">Back to Home</button>
+    </div>
+  </div>
+</div>
+
+<div id="rest-screen" class="screen" style="display:none">
+  <div class="gate-box circuit-complete-box">
+    <div class="brand">Uprising Test Prep</div>
+    <h1>Practice Rest Station</h1>
+    <p class="muted">
+      The real FRCEM OSCE circuit includes two eight minute rest stations. RCEM does not
+      publish their exact positions, so this practice circuit places them after slots 6 and 15.
+    </p>
+    <div id="rest-timer-display" class="timer-display">8:00</div>
+    <div class="timer-controls">
+      <button id="rest-timer-start" class="btn btn-primary">Start 8-Minute Rest</button>
+      <button id="rest-continue" class="btn btn-ghost">Continue to Next Station</button>
+    </div>
+  </div>
+</div>
+
+<div id="station-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="back-to-list" class="btn btn-ghost">&#8592; Back</button>
+    <div id="station-title-header"></div>
+    <div id="circuit-progress-badge" class="circuit-progress-badge" style="display:none"></div>
+  </header>
+
+  <div class="station-body">
+    <div class="meta-row">
+      <span id="station-circuit-badge" class="badge badge-alt" style="display:none"></span>
+      <span id="station-type-badge" class="badge"></span>
+    </div>
+    <div id="station-content-areas" class="tags content-area-tags"></div>
+
+    <section class="panel">
+      <h2>Setting</h2>
+      <p id="station-setting"></p>
+    </section>
+
+    <section class="panel">
+      <h2>Candidate Instructions <span class="muted">(Reading Period)</span></h2>
+      <p id="station-instructions"></p>
+    </section>
+
+    <section class="panel">
+      <h2>Materials Provided</h2>
+      <p id="station-materials"></p>
+    </section>
+
+    <section class="panel" id="station-references-panel">
+      <h2>References Provided</h2>
+      <p id="station-references"></p>
+    </section>
+
+    <section class="panel timer-panel">
+      <h2>Station Timer</h2>
+      <p class="muted timer-howto">
+        Step 1: read the instructions above and click <strong>Start Reading Timer</strong> (1 minute).
+        Step 2: when it reaches 0 it switches to the 8-minute station timer automatically, or click
+        <strong>Skip to Station Timer</strong> if you already finished reading.
+        Step 3: do the station out loud, alone or with a study partner playing the patient,
+        colleague, examiner, or resuscitation team member.
+        Step 4: when the station timer ends, use Next Station in circuit mode.
+        Step 5: click <strong>Reveal</strong> below to check your work. The real exam gives
+        you no feedback until the station is over.
+      </p>
+      <div id="timer-display">1:00</div>
+      <div id="timer-label" class="muted">Reading Period</div>
+      <div class="timer-controls">
+        <button id="timer-start" class="btn btn-primary">Start Reading Timer</button>
+        <button id="timer-reset" class="btn btn-ghost">Reset</button>
+        <button id="timer-skip" class="btn btn-ghost">Skip to Station Timer</button>
+      </div>
+      <div class="timer-controls" id="circuit-next-row" style="display:none">
+        <button id="circuit-next-btn" class="btn btn-primary">Next Station &#8594;</button>
+      </div>
+    </section>
+
+    <section class="panel" id="reveal-panel">
+      <button id="reveal-btn" class="btn btn-primary btn-block">Reveal Checklist, Script &amp; Model Answer</button>
+    </section>
+
+    <section id="answer-section" class="panel answer-section" style="display:none">
+      <div id="sp-script-block" style="display:none">
+        <h2>Partner or Colleague Script</h2>
+        <p id="sp-script-text"></p>
+      </div>
+
+      <div id="task-details-block" style="display:none">
+        <h2>Written Task Details</h2>
+        <p id="task-details-text"></p>
+      </div>
+
+      <h2>Scoring Checklist</h2>
+      <div id="checklist-container"></div>
+      <div id="score-tally" class="muted"></div>
+
+      <h2>Model Answer</h2>
+      <p id="model-answer-text"></p>
+
+      <button id="print-partner-btn" class="btn btn-ghost">Print Partner Script</button>
+    </section>
+  </div>
+</div>
+
+<div id="print-area" style="display:none"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

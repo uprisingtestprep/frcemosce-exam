@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "exam_overview",
+    "front": "How many scored stations are in the FRCEM OSCE?",
+    "back": "There are 16 scored stations in one circuit. Two additional eight-minute rest stations are part of the circuit but are not scored."
+  },
+  {
+    "id": 2,
+    "domain": "exam_overview",
+    "front": "What timing applies to each scored FRCEM OSCE station?",
+    "back": "Each station begins with one minute of reading time and then allows eight minutes for the station task. Use the reading minute to orient and choose the first safety action."
+  },
+  {
+    "id": 3,
+    "domain": "exam_overview",
+    "front": "How many rest stations are included in the FRCEM OSCE circuit?",
+    "back": "There are two rest stations. Each lasts eight minutes. Their exact positions in a future diet are not published in advance."
+  },
+  {
+    "id": 4,
+    "domain": "exam_overview",
+    "front": "What resuscitation requirement applies to the FRCEM OSCE?",
+    "back": "The circuit contains three resuscitation stations. A candidate must meet the overall standard and pass at least one resuscitation station."
+  },
+  {
+    "id": 5,
+    "domain": "exam_overview",
+    "front": "How is a score produced for each FRCEM OSCE station?",
+    "back": "Each station assesses one to four of the nine marking domains. The domain scores combine to a station score from 0 to 10."
+  },
+  {
+    "id": 6,
+    "domain": "exam_overview",
+    "front": "Name the nine FRCEM OSCE marking domains.",
+    "back": "Clinical reasoning and decision making; practical and pinnacle skills; communication including conflict; teaching; history taking and information gathering; organisation and prioritisation; clinical examination; leadership and management; research and data management."
+  },
+  {
+    "id": 7,
+    "domain": "exam_overview",
+    "front": "Is there an official published FRCEM OSCE pass mark for a future diet?",
+    "back": "No fixed future pass mark is published. Standard setting uses borderline regression and adds one standard error of measurement. Do not rely on rumoured thresholds."
+  },
+  {
+    "id": 8,
+    "domain": "exam_overview",
+    "front": "Are the exact positions of the two rest stations published?",
+    "back": "No. RCEM does not publish where the rests will occur in a particular diet. Practice placement is a learning choice, not a prediction of the real circuit."
+  },
+  {
+    "id": 9,
+    "domain": "exam_overview",
+    "front": "Which cases occupy the first three FRCEM OSCE stations?",
+    "back": "Stations 1 to 3 assess complex stable adult patients. The brief, not the slot alone, will reveal the actual task and diagnosis."
+  },
+  {
+    "id": 10,
+    "domain": "exam_overview",
+    "front": "Which station types follow slots 1 to 3 in the published OSCE map?",
+    "back": "Slots 4 and 5 assess EPIC complex or challenging situations. Slot 6 assesses supervision and teaching. The brief still determines the actual task within each slot."
+  },
+  {
+    "id": 11,
+    "domain": "exam_overview",
+    "front": "Which stations form the resuscitation block in the published OSCE map?",
+    "back": "Slots 7, 8 and 9 are the three resuscitation stations. One of these must be passed as well as meeting the overall standard."
+  },
+  {
+    "id": 12,
+    "domain": "exam_overview",
+    "front": "Which cases occupy slots 10 to 12 in the published OSCE map?",
+    "back": "Slots 10 and 11 assess injured patients. Slot 12 assesses paediatric emergency medicine. The broad label does not reveal the specific injury, illness or station task."
+  },
+  {
+    "id": 13,
+    "domain": "exam_overview",
+    "front": "Which station types occupy the final four published OSCE slots?",
+    "back": "Slots 13 and 14 assess management. Slots 15 and 16 assess management or research. Use the brief and domain pie chart to identify the required performance."
+  },
+  {
+    "id": 14,
+    "domain": "exam_overview",
+    "front": "When is the critical appraisal journal article released?",
+    "back": "RCEM emails it to all candidates four weeks before the start of the OSCE diet. Candidates must download the link and read it before their own examination day. A reading station immediately before the appraisal allows refreshment."
+  },
+  {
+    "id": 15,
+    "domain": "exam_overview",
+    "front": "What is not required during the critical appraisal station?",
+    "back": "Candidates are not asked to summarise the whole paper and no calculations are expected. The task is a guided discussion of validity, results and applicability."
+  },
+  {
+    "id": 16,
+    "domain": "exam_overview",
+    "front": "What information does an FRCEM station brief provide?",
+    "back": "It gives the scenario, required task, domains shown with a pie chart, and the examiner role. Read the task first so the rest of the brief is easier to filter."
+  },
+  {
+    "id": 17,
+    "domain": "exam_overview",
+    "front": "In what order should you use the one-minute reading period?",
+    "back": "Read the task sentence, setting, candidate instructions, materials or results, and then the marking domains. Identify the required output and first safety action."
+  },
+  {
+    "id": 18,
+    "domain": "exam_overview",
+    "front": "Which four prompts should you build during the reading minute?",
+    "back": "Ask: What must I finish? What could seriously harm the patient? What information or action is missing? How will I close the loop safely?"
+  },
+  {
+    "id": 19,
+    "domain": "exam_overview",
+    "front": "What is a strong opening script for a patient station?",
+    "back": "\"Hello, my name is Doctor [name], one of the emergency medicine registrars. I am looking after you. May I confirm your name and date of birth?\""
+  },
+  {
+    "id": 20,
+    "domain": "exam_overview",
+    "front": "What is a strong opening script for a colleague station?",
+    "back": "\"Thank you for coming. I have read the brief. Let us agree the immediate priorities and then review the plan together.\""
+  },
+  {
+    "id": 21,
+    "domain": "exam_overview",
+    "front": "What broad sequence should guide the eight minutes of a station?",
+    "back": "Orient and check safety, gather only decision-changing information, state a synthesis, perform priority actions, reassess, then state disposition, ownership and review. The timing is a guide, not an official mark scheme."
+  },
+  {
+    "id": 22,
+    "domain": "exam_overview",
+    "front": "How should you organise tasks as now, next and later?",
+    "back": "Now covers actions that change immediate survival. Next covers investigations, treatment or referrals that prevent deterioration. Later covers documentation, routine advice and definitive follow-up."
+  },
+  {
+    "id": 23,
+    "domain": "exam_overview",
+    "front": "What are the limits of NEWS2 in a station?",
+    "back": "NEWS2 detects deterioration and triggers review. It is not a diagnosis, triage category or discharge tool. Use the trend, clinical story and examination together."
+  },
+  {
+    "id": 24,
+    "domain": "exam_overview",
+    "front": "How should you respond when a risk score is low but the story is dangerous?",
+    "back": "Treat the clinical story seriously. A low score cannot exclude a dangerous diagnosis. Explain the unresolved risk, arrange targeted tests or observation, and seek senior review when needed."
+  },
+  {
+    "id": 25,
+    "domain": "exam_overview",
+    "front": "Give a model closed-loop instruction.",
+    "back": "\"Aisha, please attach the monitor and obtain a 12-lead ECG within five minutes. Please repeat the task and tell me when it is done.\""
+  },
+  {
+    "id": 26,
+    "domain": "exam_overview",
+    "front": "Which elements belong in a structured specialty referral?",
+    "back": "State the patient's age and presenting problem, key findings, immediate treatment, likely diagnosis or concern, and the specific question or decision you need."
+  },
+  {
+    "id": 27,
+    "domain": "exam_overview",
+    "front": "When should you escalate beyond your current clinical authority?",
+    "back": "Escalate when the patient is deteriorating, the task is outside your competence or local authority, a time-critical pathway is delayed, or there is a safeguarding or legal concern."
+  },
+  {
+    "id": 28,
+    "domain": "exam_overview",
+    "front": "What sequence should you use for a practical skill station?",
+    "back": "Confirm identity, indication and consent; gather and check equipment; prepare the patient; use safe technique and monitoring; confirm success; state complications and aftercare; document the outcome."
+  },
+  {
+    "id": 29,
+    "domain": "exam_overview",
+    "front": "Why must you say important physical findings aloud?",
+    "back": "The examiner can mark observable behaviour, not private thoughts. Name the finding, explain why it matters and state how it changes your priorities or plan."
+  },
+  {
+    "id": 30,
+    "domain": "exam_overview",
+    "front": "Where should a resuscitation team leader stand?",
+    "back": "Stand where you can see the patient, monitor and team. Maintain the shared picture, assign roles and next actions, and avoid becoming absorbed in one procedure."
+  },
+  {
+    "id": 31,
+    "domain": "exam_overview",
+    "front": "How should a teaching station goal be written?",
+    "back": "Use one or two observable actions. For example, ask the learner to complete a red-flag screen, summarise the findings and state the follow-up plan."
+  },
+  {
+    "id": 32,
+    "domain": "exam_overview",
+    "front": "What is the difference between internal and external validity?",
+    "back": "Internal validity asks whether the study result is trustworthy for the people studied. External validity asks whether that result applies to your patients, setting and resources."
+  },
+  {
+    "id": 33,
+    "domain": "exam_overview",
+    "front": "How should you begin breaking significant news?",
+    "back": "Use the patient's words, give a warning shot, pause and check readiness before continuing. Sit at the same level, allow silence and then explain the next practical steps."
+  },
+  {
+    "id": 34,
+    "domain": "exam_overview",
+    "front": "How should you check that a patient understands the plan?",
+    "back": "Ask them to repeat the plan in their own words. Clarify gaps, provide written information when possible and confirm who to contact if symptoms change."
+  },
+  {
+    "id": 35,
+    "domain": "exam_overview",
+    "front": "What is the graded assertiveness sequence for a clinical concern?",
+    "back": "Probe, alert, challenge, emergency. Start by checking understanding, state the observed risk, say clearly why the plan is unsafe, then call for an immediate stop and senior help."
+  },
+  {
+    "id": 36,
+    "domain": "exam_overview",
+    "front": "What should you do after noticing a new dangerous physical sign mid-station?",
+    "back": "Pause the planned task, name the finding and return to the relevant priority. Explain the revised risk and action so the examiner can mark correct reprioritisation."
+  },
+  {
+    "id": 37,
+    "domain": "exam_overview",
+    "front": "How should a station end instead of saying \"I will refer\"?",
+    "back": "State the working diagnosis, treatment started, specialty and urgency, observation plan, pending results, warning signs, responsible clinician and review time."
+  },
+  {
+    "id": 38,
+    "domain": "exam_overview",
+    "front": "Which facts make a record decision-focused?",
+    "back": "Record dangerous diagnoses considered, observation trend, key tests, treatment and response, patient discussion, capacity or social factors, disposition reason and review trigger."
+  },
+  {
+    "id": 39,
+    "domain": "exam_overview",
+    "front": "What is the best ten-second reset after a poor station?",
+    "back": "Put both feet on the floor, breathe out slowly, leave the previous station behind and reread the next task. Do not spend the next reading minute rehearsing the mistake."
+  },
+  {
+    "id": 40,
+    "domain": "exam_overview",
+    "front": "Why should you check the domain pie chart before performing a station?",
+    "back": "It shows which of the nine marking domains carry weight. It guides which behaviours must be visible, such as examination, explanation, prioritisation, leadership or teaching."
+  },
+  {
+    "id": 41,
+    "domain": "complex_stable",
+    "front": "Which five checks make a stable-patient disposition safe?",
+    "back": "Check physiological stability after treatment, exclusion of dangerous diagnoses, medication safety, social and functional safety, and a clear review plan with named responsibility."
+  },
+  {
+    "id": 42,
+    "domain": "complex_stable",
+    "front": "How should ABCDE guide an undifferentiated adult?",
+    "back": "Use airway, breathing, circulation, disability and exposure to find the dominant physiological threat before the diagnosis is clear. Treat immediate threats and reassess after each intervention."
+  },
+  {
+    "id": 43,
+    "domain": "complex_stable",
+    "front": "What should a 30-second problem representation contain?",
+    "back": "State age, relevant background, time course, key positive findings, current physiological threat and the ranked diagnostic problem. It turns scattered facts into a clear clinical question."
+  },
+  {
+    "id": 44,
+    "domain": "complex_stable",
+    "front": "How should differential diagnoses be ranked?",
+    "back": "Rank by both probability and the harm caused by delay. A less likely diagnosis deserves early testing when missing it could cause death or major disability."
+  },
+  {
+    "id": 45,
+    "domain": "complex_stable",
+    "front": "Which immediate branches shape assessment of undifferentiated chest pain?",
+    "back": "Check instability, time-critical ECG abnormalities and evidence of acute coronary syndrome, dissection, pulmonary embolism, pneumothorax or another immediately dangerous cause."
+  },
+  {
+    "id": 46,
+    "domain": "complex_stable",
+    "front": "When should a 12-lead ECG be obtained for suspected acute coronary syndrome?",
+    "back": "Obtain it promptly. NICE recommends an ECG within 10 minutes of arrival for people with suspected acute coronary syndrome, then repeat it when the clinical picture changes."
+  },
+  {
+    "id": 47,
+    "domain": "complex_stable",
+    "front": "Why can a normal initial troponin fail to exclude myocardial infarction?",
+    "back": "A very early sample may precede the rise in troponin. Follow the local high-sensitivity pathway and consider ongoing symptoms, ECG changes and the planned repeat sample."
+  },
+  {
+    "id": 48,
+    "domain": "complex_stable",
+    "front": "Which breathing findings indicate imminent respiratory failure?",
+    "back": "Exhaustion, drowsiness, inability to speak, a silent chest, rising carbon dioxide or reduced respiratory effort can signal failure. Escalate for senior and critical care assessment before arrest."
+  },
+  {
+    "id": 49,
+    "domain": "complex_stable",
+    "front": "Which syncope features require urgent admission or senior review?",
+    "back": "Exertional syncope, no warning, chest pain, breathlessness, palpitations, significant injury, known structural heart disease or a dangerous ECG feature needs urgent review and monitoring."
+  },
+  {
+    "id": 50,
+    "domain": "complex_stable",
+    "front": "Which first-line tests and examinations matter after syncope?",
+    "back": "Perform a 12-lead ECG, check lying and standing blood pressure when safe, and examine for structural heart disease and neurological findings. Ask about warning, setting and injury."
+  },
+  {
+    "id": 51,
+    "domain": "complex_stable",
+    "front": "Which two life-threatening abdominal diagnoses require deliberate exclusion?",
+    "back": "Consider ectopic pregnancy in anyone who could be pregnant and obtain a pregnancy test when it changes management. Consider ruptured abdominal aortic aneurysm in an older patient with sudden abdominal, back or flank pain."
+  },
+  {
+    "id": 52,
+    "domain": "complex_stable",
+    "front": "How may serious illness present in an older adult?",
+    "back": "Delirium, falls, reduced mobility or poor intake may replace classic symptoms. Obtain collateral history, review medicines, check glucose and hydration, and look for infection, fracture and retention."
+  },
+  {
+    "id": 53,
+    "domain": "complex_stable",
+    "front": "Give an observation trend that is more concerning than one abnormal value.",
+    "back": "A respiratory rate rising from 18 to 28 over two hours suggests deterioration even if each value seems manageable alone. Recheck after treatment and document the response."
+  },
+  {
+    "id": 54,
+    "domain": "complex_stable",
+    "front": "Which immediate actions follow high-risk adult sepsis assessment?",
+    "back": "Follow current NICE guidance and local policy. For a non-pregnant adult, take cultures before antibiotics if this will not delay treatment, and give broad-spectrum IV antibiotics within one hour. Give an isotonic crystalloid bolus within one hour unless contraindicated: start with 250 mL over 10 to 15 minutes, give further 250 mL boluses if needed up to 1,000 mL total, and reassess after every bolus. Seek senior advice if improvement remains inadequate after 1,000 mL. For a pregnant or recently pregnant person, follow NICE NG255 instead: give a 500 mL sodium-containing crystalloid bolus over less than 15 minutes within one hour when high-risk criteria are met, then reassess and follow the second-bolus escalation rule."
+  },
+  {
+    "id": 55,
+    "domain": "complex_stable",
+    "front": "Who must own a pending result that could change disposition?",
+    "back": "A named clinician must own it. Record what result is expected, when it will arrive, the action if abnormal, who will review it and how the patient will be contacted."
+  },
+  {
+    "id": 56,
+    "domain": "complex_stable",
+    "front": "When does a patient's home situation become a clinical risk?",
+    "back": "It becomes clinical risk when the patient cannot mobilise, understand advice, observe deterioration or return promptly. State the social limitation and adjust observation, support or admission accordingly."
+  },
+  {
+    "id": 57,
+    "domain": "complex_stable",
+    "front": "What is the safe role of D-dimer in suspected pulmonary embolism?",
+    "back": "Use it only within a validated clinical probability pathway and the correct population and time frame. It is not a general test for serious illness and should not overrule a high-risk presentation."
+  },
+  {
+    "id": 58,
+    "domain": "complex_stable",
+    "front": "What should you do when a capable patient declines recommended admission?",
+    "back": "Explore the reason, explain the risk and offer safe alternatives. Confirm decision-specific capacity, document the discussion and provide a rapid route back if symptoms change."
+  },
+  {
+    "id": 59,
+    "domain": "complex_stable",
+    "front": "What makes a discharge safety net specific?",
+    "back": "Give a named working diagnosis, treatment, follow-up owner, time frame and exact warning signs. State where to seek help and provide the advice in writing when possible."
+  },
+  {
+    "id": 60,
+    "domain": "complex_stable",
+    "front": "What must an admission handover highlight?",
+    "back": "State the reason for admission, immediate treatment, observation frequency, escalation threshold, pending results and the named action if any result is abnormal."
+  },
+  {
+    "id": 61,
+    "domain": "complex_stable",
+    "front": "What are the first actions for an unresponsive adult who is not breathing normally?",
+    "back": "Confirm danger and unresponsiveness, call for help, start chest compressions and attach a defibrillator as soon as possible. State that this is a cardiac arrest and assign roles."
+  },
+  {
+    "id": 62,
+    "domain": "complex_stable",
+    "front": "What adult chest compression quality should you aim for?",
+    "back": "Compress at 100 to 120 per minute, to a depth of 5 to 6 cm, with full recoil and minimal interruption. Place the patient on a firm surface and monitor effectiveness."
+  },
+  {
+    "id": 63,
+    "domain": "complex_stable",
+    "front": "When should the compressor change during adult resuscitation?",
+    "back": "Rotate the compressor about every two minutes or sooner if quality falls or fatigue develops. Plan the switch to keep the pause around the rhythm check as short as possible."
+  },
+  {
+    "id": 64,
+    "domain": "complex_stable",
+    "front": "What adrenaline regimen applies during adult shockable cardiac arrest?",
+    "back": "After the third shock, give adrenaline 1 mg intravenously and repeat it every three to five minutes during continued resuscitation. Do not delay compressions or defibrillation to give it."
+  },
+  {
+    "id": 65,
+    "domain": "complex_stable",
+    "front": "When is amiodarone given in adult shockable cardiac arrest?",
+    "back": "Give amiodarone 300 mg intravenously after the third shock when ventricular fibrillation or pulseless ventricular tachycardia persists. Follow the current Resuscitation Council UK algorithm."
+  },
+  {
+    "id": 66,
+    "domain": "complex_stable",
+    "front": "What are the four Hs used when searching for reversible cardiac arrest causes?",
+    "back": "Hypoxia, hypovolaemia, hypo or hyperkalaemia and metabolic disorders, and hypothermia. Test the plausible causes with the history, examination and available bedside findings."
+  },
+  {
+    "id": 67,
+    "domain": "complex_stable",
+    "front": "What are the four Ts used when searching for reversible cardiac arrest causes?",
+    "back": "Thrombosis, tension pneumothorax, cardiac tamponade and toxins. Treat a plausible cause immediately without losing focus on compression quality, defibrillation and the current algorithm."
+  },
+  {
+    "id": 68,
+    "domain": "complex_stable",
+    "front": "What are the first actions for adult anaphylaxis with shock?",
+    "back": "Remove the trigger, call for help, position the patient safely, give intramuscular adrenaline 500 micrograms into the anterolateral thigh, give high-flow oxygen and start an IV fluid bolus."
+  },
+  {
+    "id": 69,
+    "domain": "complex_stable",
+    "front": "When should intramuscular adrenaline be repeated in adult anaphylaxis?",
+    "back": "Repeat 500 micrograms after five minutes when features persist or recur. Use Resuscitation Council UK guidance, involve anaesthesia early for airway threat and monitor for a biphasic reaction."
+  },
+  {
+    "id": 70,
+    "domain": "complex_stable",
+    "front": "What is the adult atropine regimen for symptomatic bradycardia?",
+    "back": "Give atropine 500 micrograms intravenously and repeat every three to five minutes to a maximum total of 3 mg. Prepare transcutaneous pacing and expert support if the patient remains unstable."
+  },
+  {
+    "id": 71,
+    "domain": "complex_stable",
+    "front": "How is an unstable tachyarrhythmia managed in a conscious adult?",
+    "back": "Follow the Resuscitation Council UK tachycardia algorithm. For shock, ischaemic pain, heart failure or altered consciousness, use urgent synchronised cardioversion with appropriate sedation and airway support."
+  },
+  {
+    "id": 72,
+    "domain": "complex_stable",
+    "front": "What oxygen target applies after return of spontaneous circulation?",
+    "back": "Once saturation is reliable, titrate oxygen to 94 to 98 percent unless the patient has a prescribed different target. Avoid both hypoxia and hyperoxaemia."
+  },
+  {
+    "id": 73,
+    "domain": "complex_stable",
+    "front": "What blood pressure supports cerebral and organ perfusion after ROSC?",
+    "back": "Target a systolic pressure above 100 mm Hg or a mean arterial pressure above 60 to 65 mm Hg, using fluid and vasoactive support according to the cause and repeated assessment."
+  },
+  {
+    "id": 74,
+    "domain": "complex_stable",
+    "front": "Which ECG finding after ROSC changes the destination urgently?",
+    "back": "ST-elevation myocardial infarction or another high-risk ischaemic pattern requires urgent cardiology assessment and primary percutaneous coronary intervention according to the local pathway."
+  },
+  {
+    "id": 75,
+    "domain": "complex_stable",
+    "front": "What temperature should be targeted after ROSC in a comatose adult?",
+    "back": "Target 37.5 degrees Celsius or less under current UK guidance. Discuss temperature management, sedation, shivering and critical care transfer with intensive care."
+  },
+  {
+    "id": 76,
+    "domain": "complex_stable",
+    "front": "How should shock be recognised when blood pressure is still normal?",
+    "back": "Look at mental state, skin temperature, capillary refill, urine output, lactate, acid-base status and the trend. Organ oxygen delivery or use may be inadequate before blood pressure falls."
+  },
+  {
+    "id": 77,
+    "domain": "complex_stable",
+    "front": "What is the first priority for catastrophic external trauma bleeding?",
+    "back": "Control the bleeding before continuing the standard sequence. Use direct pressure, wound packing or a haemostatic dressing, and use a tourniquet for life-threatening limb bleeding when pressure fails."
+  },
+  {
+    "id": 78,
+    "domain": "complex_stable",
+    "front": "What is the sequence of the trauma primary survey?",
+    "back": "Control catastrophic haemorrhage, then assess airway with spinal protection, breathing, circulation, disability and exposure. Treat threats as found, keep the patient warm and repeat the survey after interventions."
+  },
+  {
+    "id": 79,
+    "domain": "complex_stable",
+    "front": "How is suspected tension pneumothorax managed in a deteriorating trauma patient?",
+    "back": "Treat it clinically without waiting for a chest X-ray. Perform immediate decompression using the approved technique and local policy, then arrange a chest drain and reassess breathing and circulation."
+  },
+  {
+    "id": 80,
+    "domain": "complex_stable",
+    "front": "Where should a pelvic binder be placed for suspected pelvic bleeding?",
+    "back": "Apply it at the level of the greater trochanters. Reassess the patient and avoid repeated springing of the pelvis because further movement can worsen bleeding."
+  },
+  {
+    "id": 81,
+    "domain": "complex_stable",
+    "front": "What is the tranexamic acid rule for major trauma with active bleeding?",
+    "back": "Give intravenous tranexamic acid as soon as possible for major trauma with active or suspected active bleeding. NICE advises against giving it more than three hours after injury unless hyperfibrinolysis is evidenced."
+  },
+  {
+    "id": 82,
+    "domain": "complex_stable",
+    "front": "Which three conditions worsen during damage-control resuscitation?",
+    "back": "Hypothermia, acidosis and coagulopathy form the lethal triad. Keep the patient and room warm, reduce exposure, use warmed fluids, give blood products and calcium as guided, and monitor the response."
+  },
+  {
+    "id": 83,
+    "domain": "complex_stable",
+    "front": "What should be prioritised during major haemorrhagic shock?",
+    "back": "Prioritise rapid bleeding control and blood products through the major haemorrhage pathway. Avoid relying on repeated crystalloid boluses while the bleeding source remains uncontrolled."
+  },
+  {
+    "id": 84,
+    "domain": "complex_stable",
+    "front": "Which two physiological insults must be prevented after traumatic brain injury?",
+    "back": "Prevent hypoxia and hypotension because both worsen secondary brain injury. Treat glucose abnormalities, trend the Glasgow Coma Scale, reassess pupils and discuss neurosurgical transfer early when indicated."
+  },
+  {
+    "id": 85,
+    "domain": "complex_stable",
+    "front": "When may an adult trauma patient go for immediate whole-body CT?",
+    "back": "Use NICE and trauma-team guidance for suspected multiple injuries when the patient is physiologically stable enough to tolerate transfer. Immediate threats and haemorrhage control take priority."
+  },
+  {
+    "id": 86,
+    "domain": "complex_stable",
+    "front": "What first aid should be started for a burn in the emergency department?",
+    "back": "Stop the burning process, cool with cool running water for the recommended duration, usually about 20 minutes, while preventing hypothermia. Cover with cling film or a clean non-adherent dressing."
+  },
+  {
+    "id": 87,
+    "domain": "complex_stable",
+    "front": "Which features suggest burns inhalation injury?",
+    "back": "Consider it with facial burns, soot, hoarse voice, stridor, cough, singed nasal hair or an enclosed-space fire. Involve anaesthesia early because airway swelling can progress rapidly."
+  },
+  {
+    "id": 88,
+    "domain": "complex_stable",
+    "front": "When should a semi-rigid cervical collar be removed or reassessed?",
+    "back": "Reassess it when it interferes with airway, breathing or essential imaging, and remove it when the validated spinal pathway allows. Use manual in-line stabilisation rather than keeping devices out of habit."
+  },
+  {
+    "id": 89,
+    "domain": "complex_stable",
+    "front": "What three components form the paediatric assessment triangle?",
+    "back": "Assess appearance, work of breathing and circulation to the skin from the doorway. State your first impression and repeat it after any intervention or change in the child."
+  },
+  {
+    "id": 90,
+    "domain": "complex_stable",
+    "front": "Which paediatric breathing signs indicate dangerous fatigue?",
+    "back": "A falling respiratory rate, quieter cry, reduced interaction, exhaustion or a silent chest may signal impending failure. Escalate immediately while supporting the airway and breathing."
+  },
+  {
+    "id": 91,
+    "domain": "complex_stable",
+    "front": "Which paediatric circulation findings require urgent escalation?",
+    "back": "Mottling, pallor, cool peripheries, weak pulses, reduced consciousness, low urine output or worsening capillary refill suggest shock. Reassess after each bolus and look for fluid overload."
+  },
+  {
+    "id": 92,
+    "domain": "complex_stable",
+    "front": "Which checks follow a paediatric weight-based dose calculation?",
+    "back": "Confirm indication, weight, dose per kilogram, maximum dose, concentration, route, rate, allergies, age limits and local protocol. State the total milligrams and use an independent checker."
+  },
+  {
+    "id": 93,
+    "domain": "complex_stable",
+    "front": "What does the NICE under-five fever traffic light change?",
+    "back": "It supports risk assessment, not a stand-alone diagnosis. Combine the colour with age, observations, hydration, breathing, circulation, parental concern and the local paediatric pathway."
+  },
+  {
+    "id": 94,
+    "domain": "complex_stable",
+    "front": "Which fever finding is high risk in a very young infant?",
+    "back": "Age under three months with a temperature of 38 degrees Celsius or above is a high-risk feature in NICE guidance. Seek urgent paediatric review and investigate according to the local pathway."
+  },
+  {
+    "id": 95,
+    "domain": "complex_stable",
+    "front": "Which paediatric safeguarding features should trigger advice from the safeguarding team?",
+    "back": "Consider an injury that does not fit the account, changing explanations, delayed care, repeated attendance, unexplained infant marks, fear of an adult or a carer preventing the child from speaking."
+  },
+  {
+    "id": 96,
+    "domain": "complex_stable",
+    "front": "What are the five steps of the teaching microskills cycle?",
+    "back": "Set an observable goal, ask for the learner's plan, demonstrate key steps with reasons, observe practice with minimal safety prompts, then debrief with evidence and one next action."
+  },
+  {
+    "id": 97,
+    "domain": "complex_stable",
+    "front": "Which four questions determine the needed supervision level?",
+    "back": "Can the learner explain the task and risks? Have they done it recently? Is this patient stable enough for learning? Is rescue support immediately available? Increase supervision whenever any answer is uncertain."
+  },
+  {
+    "id": 98,
+    "domain": "complex_stable",
+    "front": "How should feedback after a learner's error begin?",
+    "back": "First make the patient safe. Then state the observed action and its effect, ask for the learner's view, identify contributing system factors and agree one specific change for the next attempt."
+  },
+  {
+    "id": 99,
+    "domain": "complex_stable",
+    "front": "What seven-question scan organises a crowded emergency department?",
+    "back": "Check immediate instability, time-critical pathways, longest and most vulnerable waits, the next bottleneck, available resources, what can change now, and when you will reassess."
+  },
+  {
+    "id": 100,
+    "domain": "complex_stable",
+    "front": "What four steps form the leadership cycle?",
+    "back": "Assess the whole system, decide the single highest priority, allocate a named person and time, then review whether the action changed the risk or flow."
+  },
+  {
+    "id": 101,
+    "domain": "complex_stable",
+    "front": "What should an escalation call say when demand exceeds safe capacity?",
+    "back": "State the patient risk, capacity gap, effect on care, actions already tried, help needed now and the next update time. Ask for a decision and keep treating the sickest patients meanwhile."
+  },
+  {
+    "id": 102,
+    "domain": "complex_stable",
+    "front": "What does each letter of PICO identify?",
+    "back": "Population, intervention or exposure, comparator and outcome. State the question in one sentence and check that the study represents every part of it."
+  },
+  {
+    "id": 103,
+    "domain": "complex_stable",
+    "front": "What is confounding in a clinical study?",
+    "back": "A third factor linked to both exposure and outcome can create a misleading association. Adjustment helps only when the factor was measured well; an unrecorded confounder may remain."
+  },
+  {
+    "id": 104,
+    "domain": "complex_stable",
+    "front": "How should a confidence interval affect a practice decision?",
+    "back": "It shows the range of effects compatible with the data. A wide interval or one crossing no effect means important uncertainty remains, even when the headline result looks favourable."
+  },
+  {
+    "id": 105,
+    "domain": "complex_stable",
+    "front": "What five questions finish a critical appraisal?",
+    "back": "State the clinical question, direction and certainty of the result, most important benefits and harms, applicability to UK patients and resources, and whether to adopt, pilot, review or wait."
+  },
+  {
+    "id": 106,
+    "domain": "epic",
+    "front": "What should you check before starting de-escalation?",
+    "back": "Check your exit route, weapons, nearby hazards, other people at risk and how to summon help. Keep a safe distance and avoid cornering the person before beginning the conversation."
+  },
+  {
+    "id": 107,
+    "domain": "epic",
+    "front": "What should come first when a patient is angry about care?",
+    "back": "Acknowledge the emotion and the experience before correcting facts. Use a concrete reflection such as, \"You have waited four hours and nobody explained what is happening.\""
+  },
+  {
+    "id": 108,
+    "domain": "epic",
+    "front": "What is a clear behavioural boundary phrase for an aggressive person?",
+    "back": "\"I understand that you are angry. I will not continue while you are shouting at my colleague. If you lower your voice, I can explain the plan.\""
+  },
+  {
+    "id": 109,
+    "domain": "epic",
+    "front": "When does a threat require moving to a safe area and calling security or police?",
+    "back": "Act when there is a credible threat, blocked exit, pursuit, weapon or harm to others. Follow local policy, protect staff and patients, and do not manage an immediate physical threat alone."
+  },
+  {
+    "id": 110,
+    "domain": "epic",
+    "front": "What principles govern physical restraint in an emergency?",
+    "back": "Use it only as a last resort for immediate danger. It must be lawful, necessary, proportionate and delivered by trained staff under local policy, with airway, breathing and continuous review protected."
+  },
+  {
+    "id": 111,
+    "domain": "epic",
+    "front": "What should you check when a distressed patient wants to leave?",
+    "back": "Assess immediate risk and decision-specific capacity. Explain consequences and offer help, but do not block a capable adult solely because you disagree. Escalate if safeguarding or legal criteria apply."
+  },
+  {
+    "id": 112,
+    "domain": "epic",
+    "front": "What four abilities form the Mental Capacity Act functional test?",
+    "back": "Can the person understand the relevant information, retain it long enough to decide, use or weigh it, and communicate a choice? A person lacks capacity if unable to do any one."
+  },
+  {
+    "id": 113,
+    "domain": "epic",
+    "front": "What governs a best-interests decision when an adult lacks capacity?",
+    "back": "Consider past and present wishes, values, beliefs and the least restrictive safe option. Consult people close to the patient when appropriate and use an independent advocate when the legal criteria apply."
+  },
+  {
+    "id": 114,
+    "domain": "epic",
+    "front": "How does mental health law differ from the Mental Capacity Act?",
+    "back": "They are separate legal frameworks. If a suspected mental disorder creates risk that cannot be managed by consent or best interests, contact the on-call mental health service and follow the relevant statute."
+  },
+  {
+    "id": 115,
+    "domain": "epic",
+    "front": "How should you apologise during a complaint without deciding fault?",
+    "back": "Acknowledge the patient's experience and say you are sorry it happened. Explain what clinical action or investigation you can arrange while making clear that you are not yet reaching conclusions about fault."
+  },
+  {
+    "id": 116,
+    "domain": "epic",
+    "front": "What should you do when a relative demands an unnecessary antibiotic?",
+    "back": "Explore the fear behind the request, explain the evidence in plain language and offer a safe alternative. State the warning signs, review plan and escalation route without punishing the relative for asking."
+  },
+  {
+    "id": 117,
+    "domain": "epic",
+    "front": "How should you state a concern about an unsafe colleague decision?",
+    "back": "Name the observed patient risk, the evidence and the action you believe is needed. Speak privately when possible, invite dialogue and escalate promptly when the patient remains unsafe."
+  },
+  {
+    "id": 118,
+    "domain": "epic",
+    "front": "What should an honest disclosure after a clinical error include?",
+    "back": "Explain what happened, its effect, what has been done, what happens next and how the event will be reviewed. Apologise, support the patient and never alter the record to conceal the event."
+  },
+  {
+    "id": 119,
+    "domain": "epic",
+    "front": "What is the first question after a clinical system fails?",
+    "back": "Ask whether the failure creates immediate danger to assessment, monitoring or treatment. Make the patient safe first, then use an approved workaround, assign ownership and escalate the system risk."
+  },
+  {
+    "id": 120,
+    "domain": "epic",
+    "front": "How should records be managed during an electronic system outage?",
+    "back": "Use the approved downtime forms, label them clearly and record what information was unavailable. Avoid unverified copying, duplicated records or unlabelled specimens, and reconcile the record when systems recover."
+  },
+  {
+    "id": 121,
+    "domain": "epic",
+    "front": "What should you assume when an important result is missing?",
+    "back": "Do not assume it is normal. Assess the clinical risk, contact the laboratory or imaging service, repeat the sample if needed and keep the patient in a safe place while an owner resolves it."
+  },
+  {
+    "id": 122,
+    "domain": "epic",
+    "front": "What principle guides allocation when several patients need one scarce resource?",
+    "back": "Allocate by immediate clinical need and likelihood of preventable harm, not volume of complaint. Explain the decision, give waiting patients a named observer and reassessment plan, and escalate capacity gaps."
+  },
+  {
+    "id": 123,
+    "domain": "epic",
+    "front": "How should you speak about a bed delay you cannot control?",
+    "back": "Do not promise a bed or time outside your authority. Offer a commitment you can keep, such as a named clinical review, an update time and immediate help if breathing or pain changes."
+  },
+  {
+    "id": 124,
+    "domain": "epic",
+    "front": "Which reversible causes should be considered before labelling agitation as behavioural?",
+    "back": "Consider pain, fear, hypoxia, hypoglycaemia, sepsis, head injury, delirium, intoxication and withdrawal. Make the environment safer, obtain observations and glucose, and treat reversible causes."
+  },
+  {
+    "id": 125,
+    "domain": "epic",
+    "front": "What should a brief debrief after a difficult event cover?",
+    "back": "Review what happened, what helped, what increased risk and what should change. Separate learning from blame, support staff, record agreed actions and use local governance processes when required."
+  },
+  {
+    "id": 126,
+    "domain": "epic",
+    "front": "What safety scan should you complete before starting a difficult EPIC conversation?",
+    "back": "Check exits, obstacles, weapons, who else is present and how to call for help. Position yourself near an exit without cornering anyone. Move hot drinks or sharp objects when safe, then introduce your purpose and invite the person to speak."
+  },
+  {
+    "id": 127,
+    "domain": "epic",
+    "front": "Which opening phrase acknowledges distress without accepting every accusation?",
+    "back": "Say: \"I can see this has been frightening and that you feel nobody has listened. I want to understand what happened and find a safe way forward.\" This names the emotion before you correct facts or discuss the plan."
+  },
+  {
+    "id": 128,
+    "domain": "epic",
+    "front": "What phrase sets a clear behavioural limit during a heated exchange?",
+    "back": "Say: \"I understand you are angry. I will not continue while you are shouting at my colleague. If you lower your voice, I will explain what we can do now.\" Separate the emotion from the unacceptable behaviour and offer a route back."
+  },
+  {
+    "id": 129,
+    "domain": "epic",
+    "front": "When should a threatened staff member move to a safer area and call security or police?",
+    "back": "Act when there is a credible threat, following, blocked exits, weapon use or physical harm. Move to a safe area, use the emergency alarm and call trained security or police through local policy. Clinical care continues once staff and patients are protected."
+  },
+  {
+    "id": 130,
+    "domain": "epic",
+    "front": "What four tests make physical restraint defensible as a last resort?",
+    "back": "The restraint must be lawful, necessary, proportionate and performed by trained staff under local policy. Use it only for immediate danger after less restrictive measures fail or are unsafe. Monitor airway and breathing, review frequently and stop when the risk allows."
+  },
+  {
+    "id": 131,
+    "domain": "epic",
+    "front": "What should you assess when a distressed adult says they want to leave?",
+    "back": "Check immediate risk and decision-specific capacity before discussing consequences. A capacitous adult can decline care even when you disagree. If capacity is uncertain, use the relevant legal framework, offer help and document the conversation without inventing detention authority."
+  },
+  {
+    "id": 132,
+    "domain": "epic",
+    "front": "Which four abilities form the Mental Capacity Act test for a specific decision?",
+    "back": "The person must understand the relevant information, retain it long enough to decide, use or weigh it and communicate a choice. Apply the test to the actual decision. Pain, delirium, language barriers and fear require treatment or support before deciding."
+  },
+  {
+    "id": 133,
+    "domain": "epic",
+    "front": "What support should you try before concluding that someone lacks capacity?",
+    "back": "Treat pain and reversible illness, choose a quiet setting, use simple language, allow time, involve an interpreter and provide written or visual information. Ask about the person's usual communication needs. Capacity is decision-specific and may change after treatment."
+  },
+  {
+    "id": 134,
+    "domain": "epic",
+    "front": "Which factors belong in a best-interests decision under the Mental Capacity Act?",
+    "back": "Consider past and present wishes, values, beliefs, available treatment options, likely benefits and harms, least restriction and the views of people close to the person. Involve an independent mental capacity advocate when the legal criteria apply. Record the reasoning and review time."
+  },
+  {
+    "id": 135,
+    "domain": "epic",
+    "front": "How do you test whether a capacity-related plan is the least restrictive safe option?",
+    "back": "Ask which restrictions are truly needed for the immediate risk, whether a less restrictive alternative can work and how quickly the restriction can be reviewed. Record the comparison, involve the right legal or safeguarding team and set a named review point."
+  },
+  {
+    "id": 136,
+    "domain": "epic",
+    "front": "Why is mental health law not interchangeable with the Mental Capacity Act?",
+    "back": "The Mental Capacity Act supports decision making for people who lack capacity for a specific choice. The Mental Health Act 1983 provides separate powers for assessment or treatment of mental disorder under strict criteria. Use the relevant legal framework and specialist advice."
+  },
+  {
+    "id": 137,
+    "domain": "epic",
+    "front": "What is the Approved Mental Health Professional's role in England and Wales?",
+    "back": "An Approved Mental Health Professional coordinates assessment under the Mental Health Act 1983. Doctors may provide recommendations, while detention still requires the legal criteria and required assessments. Contact the on-call mental health service early when risk cannot be managed safely."
+  },
+  {
+    "id": 138,
+    "domain": "epic",
+    "front": "What immediate action follows a suspected child safeguarding emergency?",
+    "back": "Keep the child in a safe supervised clinical area, address urgent medical needs and call the named safeguarding lead and local authority service urgently. If there is immediate danger, call police through local policy. A hospital clinician must not physically detain the child or block removal unless another person or order provides lawful authority. Where the Children Act 1989 criteria are met, a constable can take steps to keep the child in hospital or remove the child to suitable accommodation; involve police and legal or safeguarding advice promptly."
+  },
+  {
+    "id": 139,
+    "domain": "epic",
+    "front": "What sequence applies when a parent declines urgent treatment for a child?",
+    "back": "Explore the reason, correct misunderstandings, explain the consequences and involve a senior clinician. Keep the child safe while the disagreement is resolved. Emergency treatment may be justified when immediately necessary to prevent serious harm, but use legal and senior advice and document the process."
+  },
+  {
+    "id": 140,
+    "domain": "epic",
+    "front": "What interpreter rule applies to consent and safeguarding conversations?",
+    "back": "Use a trained interpreter, in person or by telephone, and speak directly to the patient. Do not use a child relative for sensitive or high-risk information. Check understanding, record the interpreter's presence and let the patient ask questions through the interpreter."
+  },
+  {
+    "id": 141,
+    "domain": "epic",
+    "front": "What must follow promptly when a clinical error harms or may harm a patient?",
+    "back": "Make the patient safe, seek senior help, inform the patient or family honestly and explain what happened and what comes next. Follow the applicable duty of candour and local incident process. Do not alter the record; add a timed correction if needed."
+  },
+  {
+    "id": 142,
+    "domain": "epic",
+    "front": "How can you apologise for an experience without claiming facts you do not know?",
+    "back": "Say: \"I am sorry this was frightening and that the communication did not meet the standard you expected. I cannot decide the whole complaint now, but I can arrange review and record your concerns.\" An apology can acknowledge harm without pretending an investigation is complete."
+  },
+  {
+    "id": 143,
+    "domain": "epic",
+    "front": "What four-step response should begin when a relative makes a formal complaint?",
+    "back": "Listen without interrupting, summarise the concern, apologise for the experience and state what you can investigate now. Separate immediate clinical action from later complaint review. Record the facts and give the correct complaints or feedback route."
+  },
+  {
+    "id": 144,
+    "domain": "epic",
+    "front": "What should each graded assertiveness step sound like during a safety concern?",
+    "back": "Probe by checking understanding, alert by naming the observed risk, challenge by saying the plan is unsafe and use an emergency stop when deterioration is immediate. Keep each statement factual, direct and focused on the patient's next safe action."
+  },
+  {
+    "id": 145,
+    "domain": "epic",
+    "front": "How should you open a conflict conversation with a colleague?",
+    "back": "Choose a private space when immediate care allows. State the shared aim, describe the observable concern and ask for their view. Avoid labels or public humiliation. Agree the patient's next safe action and escalate if disagreement continues."
+  },
+  {
+    "id": 146,
+    "domain": "epic",
+    "front": "What turns a broken system into an immediate patient safety problem?",
+    "back": "A system fault becomes urgent when it prevents safe assessment, monitoring, treatment or escalation. Name the affected patient, choose a safe workaround or stop the task, assign an owner, set a review time and escalate according to the resulting clinical risk."
+  },
+  {
+    "id": 147,
+    "domain": "epic",
+    "front": "What should you do when an important result is missing rather than normal?",
+    "back": "Do not assume it is normal. State the clinical risk, contact the laboratory or imaging team, repeat the sample or test if needed and keep the patient in a safe monitored area. Record who owns the result and the action if it is abnormal."
+  },
+  {
+    "id": 148,
+    "domain": "epic",
+    "front": "Which safeguards apply when using paper records during an electronic system outage?",
+    "back": "Use only the approved downtime forms, label them clearly and follow local recovery rules. Prevent duplicate records and unverified copying. Track specimens, results and medicine orders on one controlled list, then reconcile the paper record when systems return."
+  },
+  {
+    "id": 149,
+    "domain": "epic",
+    "front": "How should scarce treatment space be allocated when several patients are at risk?",
+    "back": "Use immediate reversibility and clinical need, not who complains loudest or arrived first. State the principle aloud, place the patient with the greatest immediate threat in the scarce space and keep others under a named observation and reassessment plan."
+  },
+  {
+    "id": 150,
+    "domain": "epic",
+    "front": "What should you tell a stable patient whose wait increases because another patient is critically ill?",
+    "back": "Explain that staff are managing an immediate threat to life, while giving a real review commitment. Say: \"Your injury still needs assessment, but the wait may be longer because the team is stabilising a critically ill patient. I will return by a specific time.\""
+  },
+  {
+    "id": 151,
+    "domain": "epic",
+    "front": "What honest statement can replace a promise of a bed or exact time?",
+    "back": "Say: \"I cannot promise a bed by a particular time. I can promise a clinical review at four o'clock, a written pain plan and that I will tell the nurse in charge if your breathing changes.\" Promise only actions you control."
+  },
+  {
+    "id": 152,
+    "domain": "epic",
+    "front": "Which four facts belong in a duty of candour explanation after a safety event?",
+    "back": "Explain what happened, what immediate action was taken, what happens next and how the event will be reviewed or investigated. Give the information promptly and honestly, involve the responsible senior team and record the discussion accurately."
+  },
+  {
+    "id": 153,
+    "domain": "epic",
+    "front": "Which reversible medical causes must be considered before labelling agitation as behavioural?",
+    "back": "Consider hypoxia, hypoglycaemia, pain, sepsis, head injury, intoxication, withdrawal and delirium. Make the environment safer, obtain observations and glucose and treat reversible causes. A psychiatric explanation should follow assessment, not replace it."
+  },
+  {
+    "id": 154,
+    "domain": "epic",
+    "front": "How can delirium affect a patient's apparent decision-making capacity?",
+    "back": "Delirium can impair attention, understanding, retention and weighing of information, but capacity still applies to the specific decision. Treat pain, infection, dehydration, constipation and medicines, use repeated assessments and support communication before relying on a best-interests decision."
+  },
+  {
+    "id": 155,
+    "domain": "epic",
+    "front": "What is the key threshold principle for a safeguarding referral?",
+    "back": "Separate suspicion from proof. Refer when the local safeguarding threshold is met, when the child or adult may be at risk or when specialist advice is needed. Information sharing should be necessary, proportionate and in the person's interests, not limited by fear of being wrong."
+  },
+  {
+    "id": 156,
+    "domain": "epic",
+    "front": "What questions test whether safeguarding information sharing is justified?",
+    "back": "Ask what risk you are trying to reduce, whether sharing is necessary and proportionate, who needs the information and what harm could follow from sharing or withholding it. Seek safeguarding advice when consent is unsafe or the legal basis is unclear."
+  },
+  {
+    "id": 157,
+    "domain": "epic",
+    "front": "How should you ask directly about suicidal thoughts or plans?",
+    "back": "Ask clearly, without judgement: \"Are you thinking about killing yourself?\" If yes, ask about intent, plan, access to means, previous attempts, protective factors and immediate safety. Stay with the patient, remove immediate means where safe and involve mental health or senior support."
+  },
+  {
+    "id": 158,
+    "domain": "epic",
+    "front": "What elements make a suicide-risk safety plan concrete rather than reassuring words?",
+    "back": "Name warning signs, coping actions, people and services to contact, immediate steps if crisis escalates and how access to lethal means will be reduced. Include the patient's own words, confirm the plan is workable and arrange a time-bound mental health review."
+  },
+  {
+    "id": 159,
+    "domain": "epic",
+    "front": "What response should you use when a family demands an unindicated treatment?",
+    "back": "Acknowledge the fear behind the demand, explain the evidence in plain language and offer a safe alternative. State what you can monitor or review. Do not bargain about clinically harmful care, and involve a senior clinician if disagreement continues."
+  },
+  {
+    "id": 160,
+    "domain": "epic",
+    "front": "What shared goal should anchor a conflict between family members about treatment?",
+    "back": "Return the focus to what the patient would want and what is clinically safe. Separate documented patient wishes from family opinion, check capacity and legal authority and allow each person to speak. Summarise decisions and arrange independent support when needed."
+  },
+  {
+    "id": 161,
+    "domain": "epic",
+    "front": "What sequence guides breaking significant news in an eight-minute station?",
+    "back": "Sit at the person's level, use their words for the event, give a short warning shot, pause and check readiness. Deliver the news plainly, allow silence and respond to emotion before explaining treatment and next steps. Close with support and a clear plan."
+  },
+  {
+    "id": 162,
+    "domain": "epic",
+    "front": "How should confidentiality be explained to an adolescent in an emergency consultation?",
+    "back": "Explain in age-appropriate words what will remain private and the limited situations in which safety concerns require sharing. Ask who they want present, offer private time and assess decision-specific capacity. Involve senior and safeguarding advice when conflict or serious risk remains."
+  },
+  {
+    "id": 163,
+    "domain": "epic",
+    "front": "Which language makes a difficult encounter record objective and usable?",
+    "back": "Record what was said and done, the risks explained, options offered, decisions made, people consulted and the review plan. Quote the patient's own words when relevant. Avoid labels such as difficult or manipulative, which hide the observable behaviour."
+  },
+  {
+    "id": 164,
+    "domain": "epic",
+    "front": "What four questions structure a hot debrief after a serious event?",
+    "back": "Ask what happened, what helped, what made the response harder and what should change. Give each team member a chance to speak. Separate support for people from system learning, record agreed actions and follow the local incident process."
+  },
+  {
+    "id": 165,
+    "domain": "epic",
+    "front": "Which four-step ethical framework supports a difficult clinical decision?",
+    "back": "Identify the decision and facts, check capacity and legal authority, weigh benefits, harms and professional duties, then choose the least restrictive safe action and review it. Record the alternatives, people consulted and review trigger."
+  },
+  {
+    "id": 166,
+    "domain": "resuscitation",
+    "front": "What is the immediate response when an adult is unresponsive and not breathing normally?",
+    "back": "Confirm safety and unresponsiveness, call for help, start chest compressions and attach a defibrillator as soon as possible. State that the patient is in cardiac arrest and allocate compression, airway, monitoring and arrest-trolley tasks."
+  },
+  {
+    "id": 167,
+    "domain": "resuscitation",
+    "front": "Which seven roles should an adult cardiac arrest leader establish early?",
+    "back": "Allocate compressions, a replacement compressor, airway and ventilation, monitor and defibrillator, vascular access and drugs, procedures, and a scribe or timekeeper. Give roles to named people and ask anyone without a role to clear the working space."
+  },
+  {
+    "id": 168,
+    "domain": "resuscitation",
+    "front": "What verbal check confirms high-quality adult chest compressions?",
+    "back": "Ask the compressor to confirm a rate of 100 to 120 per minute, depth of 5 to 6 cm, full recoil and minimal pause. Watch technique directly. Reposition the patient on a firm surface if the mattress allows compression depth to be lost."
+  },
+  {
+    "id": 169,
+    "domain": "resuscitation",
+    "front": "How should the leader plan compressor rotation without lengthening the pause?",
+    "back": "Prepare the replacement compressor before the two-minute rhythm check. Rotate at the check or sooner if quality falls. State the switch clearly, keep the defibrillator decision moving and resume compressions immediately after the shock or rhythm assessment."
+  },
+  {
+    "id": 170,
+    "domain": "resuscitation",
+    "front": "What is the adult shockable-rhythm cycle when ventricular fibrillation persists?",
+    "back": "Deliver one shock, resume compressions immediately and continue for two minutes before reassessing the rhythm. Minimise interruptions. Give adrenaline after the third shock and amiodarone after the third shock according to the current Resuscitation Council UK algorithm."
+  },
+  {
+    "id": 171,
+    "domain": "resuscitation",
+    "front": "How does the adult non-shockable cardiac arrest algorithm differ from shockable arrest?",
+    "back": "For asystole or pulseless electrical activity, continue high-quality cardiopulmonary resuscitation and give adrenaline as soon as vascular access is available, then every three to five minutes. Do not shock. Search actively for reversible causes while maintaining compression quality."
+  },
+  {
+    "id": 172,
+    "domain": "resuscitation",
+    "front": "What should the team do between recognising a shockable rhythm and delivering the shock?",
+    "back": "Ask the compressor to continue while the defibrillator charges if local equipment allows. Confirm correct pads and mode, announce everyone clear and check visually. Deliver one shock, then resume compressions immediately without a routine pulse check."
+  },
+  {
+    "id": 173,
+    "domain": "resuscitation",
+    "front": "What adult adrenaline dose and timing applies during cardiac arrest?",
+    "back": "Give 1 mg intravenously or intraosseously every three to five minutes while resuscitation continues. In shockable arrest, start after the third shock. In non-shockable arrest, give it as soon as access is available. Never delay compressions or defibrillation for the drug."
+  },
+  {
+    "id": 174,
+    "domain": "resuscitation",
+    "front": "When is intravenous amiodarone used in adult refractory shockable cardiac arrest?",
+    "back": "Give amiodarone 300 mg after the third shock when ventricular fibrillation or pulseless ventricular tachycardia persists. The current algorithm permits a further 150 mg after the fifth shock. Access and drug preparation must not interrupt compressions or defibrillation."
+  },
+  {
+    "id": 175,
+    "domain": "resuscitation",
+    "front": "Which checks reduce harm during bag-mask ventilation in adult cardiac arrest?",
+    "back": "Open the airway, choose the correct mask size, obtain a seal and give enough volume to produce visible chest rise. Avoid rapid or excessive ventilation. Reassess the seal and airway if chest rise is poor, and call for experienced airway help early."
+  },
+  {
+    "id": 176,
+    "domain": "resuscitation",
+    "front": "How should waveform capnography change airway management during cardiac arrest?",
+    "back": "Attach capnography to confirm tracheal tube placement and monitor it continuously. A persistent waveform supports tube position. A sudden loss requires assessment for displacement, obstruction, equipment failure or cardiac arrest. Capnography also helps monitor compression quality and return of circulation."
+  },
+  {
+    "id": 177,
+    "domain": "resuscitation",
+    "front": "Which causes belong in the four Hs of reversible cardiac arrest?",
+    "back": "The current Resuscitation Council UK adult ALS four Hs are hypoxia; hypovolaemia; hyper-hypokalaemia, -calcaemia, -magnesaemia and hypoglycaemia (metabolic); and hypo-hyperthermia. Use the history, examination and available bedside tests to decide which cause is plausible. Treat the plausible cause without abandoning compressions or defibrillation."
+  },
+  {
+    "id": 178,
+    "domain": "resuscitation",
+    "front": "Which causes belong in the four Ts of reversible cardiac arrest?",
+    "back": "The four Ts are thrombosis, tension pneumothorax, cardiac tamponade and toxins. Link each to evidence from the case rather than reciting the list. Immediate intervention for a strongly suspected cause must not create long pauses in high-quality resuscitation."
+  },
+  {
+    "id": 179,
+    "domain": "resuscitation",
+    "front": "How should the team review reversible causes when the cardiac arrest is not responding?",
+    "back": "Check compression quality, ventilation, pad position, access and drug timing first. Then review the history and focused bedside findings for each plausible reversible cause. Assign specific questions or procedures to named people and ask for concise reports."
+  },
+  {
+    "id": 180,
+    "domain": "resuscitation",
+    "front": "Where should an adult resuscitation team leader position themselves?",
+    "back": "Stand where you can see the patient, monitor, airway, compressor and team. Keep your hands free enough to assess the whole picture. Give named instructions, request focused updates and avoid becoming absorbed in one procedure."
+  },
+  {
+    "id": 181,
+    "domain": "resuscitation",
+    "front": "What shared mental model should an adult cardiac arrest leader state at the start?",
+    "back": "Name the arrest, initial rhythm and priorities: good compressions, early defibrillation, effective ventilation and reversible causes. Ask the team to report rhythm changes or safety concerns immediately. This gives everyone the same picture and next actions."
+  },
+  {
+    "id": 182,
+    "domain": "resuscitation",
+    "front": "How do you give a complete closed-loop instruction during resuscitation?",
+    "back": "Name the person, give one task, set a standard or deadline, ask them to repeat it and require a report when complete. For example: \"Sam, prepare 1 mg adrenaline and tell me when it is ready. Repeat the task.\" Then confirm the correct repeat."
+  },
+  {
+    "id": 183,
+    "domain": "resuscitation",
+    "front": "Which focused airway updates should replace asking only how the airway is?",
+    "back": "Ask for the end-tidal carbon dioxide value and trend, the ventilation method, the seal or tube position and any sudden change. Ask the monitor operator for rhythm, shocks and time. Specific questions reveal gaps and direct the next action."
+  },
+  {
+    "id": 184,
+    "domain": "resuscitation",
+    "front": "What exact invitation encourages a junior team member to challenge the leader?",
+    "back": "Say: \"If anyone sees a safety concern or something that does not fit, say stop now. I will listen.\" Thank the person when they speak, check the facts and change the plan if needed. This makes speaking up part of the team task."
+  },
+  {
+    "id": 185,
+    "domain": "resuscitation",
+    "front": "What should the leader do when too many clinicians crowd a resuscitation?",
+    "back": "Name the roles needed for the current priorities and ask anyone without a role to step behind a clear line. Protect the compressor, airway operator and procedure space. Keep one senior clinician available for the rest of the department when staffing allows."
+  },
+  {
+    "id": 186,
+    "domain": "resuscitation",
+    "front": "What leadership step is required before a resuscitation team leader performs a procedure?",
+    "back": "Hand leadership to a named clinician, state the immediate plan and ask for a report when the procedure is complete. Resume leadership after the procedure or earlier if the patient's condition changes. This avoids losing monitoring and team oversight."
+  },
+  {
+    "id": 187,
+    "domain": "resuscitation",
+    "front": "What communication step should precede urgent electrical therapy in a conscious patient?",
+    "back": "Explain the rhythm, the physiological danger and the need to reset or slow the heart. State that anaesthetic and monitoring support are being arranged. Answer questions briefly, obtain consent when possible and keep the patient informed throughout preparation."
+  },
+  {
+    "id": 188,
+    "domain": "resuscitation",
+    "front": "What does shock mean even when the systolic blood pressure is not low?",
+    "back": "Shock means oxygen delivery or use is inadequate for the body's needs. Blood pressure may remain normal during compensation. Look at mental state, skin temperature, capillary refill, urine output, lactate, acid-base status and the response to treatment."
+  },
+  {
+    "id": 189,
+    "domain": "resuscitation",
+    "front": "Which trend can reveal shock before a single blood pressure becomes abnormal?",
+    "back": "A rising lactate with cooling peripheries, slower capillary refill, reducing urine output or worsening confusion suggests worsening perfusion. Compare repeated observations with the work of breathing and heart rate. Treat the patient rather than waiting for hypotension."
+  },
+  {
+    "id": 190,
+    "domain": "resuscitation",
+    "front": "What immediate actions are required for adult anaphylaxis with circulatory collapse?",
+    "back": "Call for help, remove the trigger and position the patient safely. Give intramuscular adrenaline, high-flow oxygen and a rapid intravenous crystalloid bolus, with continuous monitoring. Prepare for airway involvement and involve anaesthesia or critical care early."
+  },
+  {
+    "id": 191,
+    "domain": "resuscitation",
+    "front": "What adult intramuscular adrenaline dose is used for anaphylaxis?",
+    "back": "Give 500 micrograms into the anterolateral thigh. Check the preparation, concentration, route and expiry before administration. Record the time and response, monitor continuously and repeat after five minutes if features persist or recur."
+  },
+  {
+    "id": 192,
+    "domain": "resuscitation",
+    "front": "When and where should intramuscular adrenaline be repeated during adult anaphylaxis?",
+    "back": "Repeat 500 micrograms into the anterolateral thigh after five minutes when symptoms persist or return. Continue airway, breathing and circulation support while arranging the repeat dose. Follow the current Resuscitation Council UK anaphylaxis algorithm."
+  },
+  {
+    "id": 193,
+    "domain": "resuscitation",
+    "front": "Which adult anaphylaxis features require immediate anaesthetic airway support?",
+    "back": "Call for anaesthesia early with voice change, hoarseness, stridor, tongue or throat swelling, increasing work of breathing or falling oxygen saturation. Continue intramuscular adrenaline and oxygen while preparing a difficult-airway plan. Do not examine the throat in a way that provokes obstruction."
+  },
+  {
+    "id": 194,
+    "domain": "resuscitation",
+    "front": "What adult bradycardia features make drug treatment and pacing preparation urgent?",
+    "back": "Treat adverse features such as shock, ischaemic chest pain, acute heart failure or altered consciousness. Obtain expert help, treat reversible causes and follow the Resuscitation Council UK bradycardia algorithm. Prepare pacing while drugs are given rather than waiting for collapse."
+  },
+  {
+    "id": 195,
+    "domain": "resuscitation",
+    "front": "What adult atropine dose and safety limits apply in symptomatic bradycardia?",
+    "back": "Give 500 micrograms intravenously and repeat every three to five minutes to a maximum total of 3 mg under the current algorithm. Monitor the rhythm and perfusion. Do not rely on atropine alone when the patient is deteriorating; prepare pacing and senior support."
+  },
+  {
+    "id": 196,
+    "domain": "resuscitation",
+    "front": "Which checks must occur before transcutaneous pacing for an unstable bradycardia?",
+    "back": "Confirm the indication and adverse features, attach monitoring and pads, select pacing mode and capture settings, and provide analgesia or sedation when appropriate. Confirm electrical capture and a compatible pulse. Call for expert help and prepare definitive treatment."
+  },
+  {
+    "id": 197,
+    "domain": "resuscitation",
+    "front": "Which four adverse features make an adult tachyarrhythmia immediately unstable?",
+    "back": "Shock, ischaemic chest pain, acute heart failure and altered consciousness indicate instability under the adult tachycardia algorithm. Assess the patient, monitor the rhythm and prepare urgent treatment while calling appropriate senior help. Treat reversible causes alongside the rhythm strategy."
+  },
+  {
+    "id": 198,
+    "domain": "resuscitation",
+    "front": "What equipment and team checks precede synchronised cardioversion?",
+    "back": "Confirm the indication, rhythm and synchronisation markers. Position pads correctly, check oxygen away from spark risk and prepare suction, airway support, monitoring and resuscitation equipment. Allocate drugs and airway roles, state the shock plan and record the response."
+  },
+  {
+    "id": 199,
+    "domain": "resuscitation",
+    "front": "What staffing plan should support sedation for urgent cardioversion?",
+    "back": "Involve a clinician able to manage sedation and the airway, with immediate resuscitation support. Check fasting status only if this will not delay life-saving treatment. Confirm monitoring, oxygen, suction, drugs and a failed-airway plan before sedation starts."
+  },
+  {
+    "id": 200,
+    "domain": "resuscitation",
+    "front": "What reassessment follows electrical cardioversion in the emergency department?",
+    "back": "Recheck the rhythm, pulse, blood pressure, consciousness, oxygenation and airway. Look for burns, arrhythmia recurrence, aspiration and sedation complications. Continue monitoring, treat reversible causes and document energy, shocks, drugs and clinical response."
+  },
+  {
+    "id": 201,
+    "domain": "resuscitation",
+    "front": "What must be checked after every intravenous fluid bolus in shock?",
+    "back": "Reassess blood pressure, heart rate, mental state, capillary refill, urine output and lactate, then examine the lungs and jugular venous pressure. Look for improvement and overload. Choose the next bolus, vasoactive support or escalation from the response."
+  },
+  {
+    "id": 202,
+    "domain": "resuscitation",
+    "front": "Why should repeated crystalloid boluses not drive resuscitation in uncontrolled haemorrhage?",
+    "back": "Repeated crystalloid can raise blood pressure before bleeding is controlled, dilute clotting factors and worsen hypothermia. Prioritise rapid haemorrhage control, blood products through the major haemorrhage pathway and repeated physiological assessment according to local trauma guidance."
+  },
+  {
+    "id": 203,
+    "domain": "resuscitation",
+    "front": "What immediate bundle applies to a high-risk adult with suspected sepsis?",
+    "back": "Use current NICE guidance and local policy. For a non-pregnant adult, measure lactate, take blood cultures before antibiotics if this will not delay treatment, and give broad-spectrum intravenous antibiotics within one hour. Give an isotonic crystalloid bolus within one hour unless contraindicated: start with 250 mL over 10 to 15 minutes, give further 250 mL boluses if needed up to 1,000 mL total, and reassess perfusion, lungs and response after every bolus. Seek senior advice if improvement remains inadequate after 1,000 mL. For a pregnant or recently pregnant person, follow NICE NG255 instead: give a 500 mL sodium-containing crystalloid bolus over less than 15 minutes within one hour when high-risk criteria are met, then reassess and follow the second-bolus escalation rule."
+  },
+  {
+    "id": 204,
+    "domain": "resuscitation",
+    "front": "When can blood cultures wait until after antibiotics in suspected sepsis?",
+    "back": "They should not wait when collection would delay urgent antibiotics in a high-risk patient. Take cultures first only when access and collection can occur promptly. Label specimens, document the timing and follow local sepsis guidance."
+  },
+  {
+    "id": 205,
+    "domain": "resuscitation",
+    "front": "Which findings show that a sepsis fluid bolus is helping or causing harm?",
+    "back": "Improvement includes better mental state, perfusion, urine output and falling lactate with stable breathing. Harm includes new crackles, increasing oxygen need, raised jugular venous pressure or worsening respiratory distress. Set the next review before giving more fluid."
+  },
+  {
+    "id": 206,
+    "domain": "resuscitation",
+    "front": "When should septic shock prompt critical care and vasoactive support?",
+    "back": "Escalate when hypotension or poor perfusion persists after appropriate fluid resuscitation, or when fluid is unsafe. Involve critical care and senior emergency staff early. Choose vasoactive support and monitoring targets from the cause, response and local protocol."
+  },
+  {
+    "id": 207,
+    "domain": "resuscitation",
+    "front": "Which bedside pattern suggests cardiogenic shock rather than simple hypovolaemia?",
+    "back": "Look for cool peripheries with raised jugular venous pressure, lung crackles, a new murmur, pulmonary oedema or a dangerous electrocardiogram. Obtain urgent cardiology and critical care input. The cause may be acute ischaemia, arrhythmia, valve failure or myocarditis."
+  },
+  {
+    "id": 208,
+    "domain": "resuscitation",
+    "front": "Why must fluid be given cautiously when cardiogenic shock is possible?",
+    "back": "The heart may be unable to eject additional volume, so fluid can worsen pulmonary oedema and oxygenation. Give small measured challenges only when the filling state is uncertain and reassess lungs, work of breathing and perfusion immediately. Seek senior guidance."
+  },
+  {
+    "id": 209,
+    "domain": "resuscitation",
+    "front": "Which physical problems can cause obstructive shock?",
+    "back": "Obstructive shock occurs when filling or ejection is mechanically limited, such as tension pneumothorax, cardiac tamponade or massive pulmonary embolism. Signs vary, so use the history, focused examination and bedside ultrasound without delaying urgent treatment."
+  },
+  {
+    "id": 210,
+    "domain": "resuscitation",
+    "front": "What is the decision rule for life-threatening tension pneumothorax?",
+    "back": "Treat a strongly suspected tension pneumothorax immediately in a deteriorating patient without waiting for imaging. Use the approved decompression technique and local equipment, then arrange a chest drain and reassess breathing and circulation. Senior and procedural support should be called early."
+  },
+  {
+    "id": 211,
+    "domain": "resuscitation",
+    "front": "Which bedside findings support cardiac tamponade in obstructive shock?",
+    "back": "Consider hypotension, raised jugular venous pressure, muffled heart sounds and an unstable rhythm. Focused ultrasound may show pericardial fluid with impaired cardiac filling. Call senior help and prepare urgent drainage without delaying resuscitation."
+  },
+  {
+    "id": 212,
+    "domain": "resuscitation",
+    "front": "What escalation is required for suspected massive pulmonary embolism causing shock?",
+    "back": "Call senior emergency, cardiology and critical care support. Provide oxygen and circulatory support, assess bleeding risk and discuss urgent reperfusion according to current guidance. In cardiac arrest with suspected pulmonary embolism, follow the Resuscitation Council UK algorithm and local pathway."
+  },
+  {
+    "id": 213,
+    "domain": "resuscitation",
+    "front": "Which injury pattern and vital signs suggest neurogenic shock?",
+    "back": "Suspect neurogenic shock after a high spinal cord injury when hypotension occurs with inappropriate bradycardia or warm peripheries rather than compensatory tachycardia. Follow trauma and spinal injury guidance, check for other bleeding and involve senior trauma support."
+  },
+  {
+    "id": 214,
+    "domain": "resuscitation",
+    "front": "When should unexplained shock prompt consideration of adrenal crisis?",
+    "back": "Consider it with known adrenal insufficiency, long-term corticosteroid use, pituitary disease or compatible electrolyte abnormalities. Seek urgent endocrine and senior advice and follow the emergency steroid pathway. Treat other causes of shock at the same time."
+  },
+  {
+    "id": 215,
+    "domain": "resuscitation",
+    "front": "What dose-safety checks precede emergency treatment of severe hyperkalaemia?",
+    "back": "Attach cardiac monitoring and confirm the specimen if time allows. Check which calcium salt, concentration, dose, route and extravasation plan the local protocol requires. Then arrange insulin with glucose, potassium removal and expert review according to current UK guidance."
+  },
+  {
+    "id": 216,
+    "domain": "resuscitation",
+    "front": "What safeguards apply when treating severe hypoglycaemia in an adult?",
+    "back": "Check the glucose value and conscious state, protect the airway and follow the local emergency glucose protocol. Confirm the concentration, dose and route. In malnutrition or chronic alcohol use, provide thiamine according to policy without delaying glucose for severe hypoglycaemia."
+  },
+  {
+    "id": 217,
+    "domain": "resuscitation",
+    "front": "How should naloxone be titrated in suspected opioid toxicity?",
+    "back": "Support airway and ventilation first, then titrate naloxone to adequate breathing rather than full consciousness. Reassess continuously because opioid effect may outlast the dose. Monitor for recurrent respiratory depression and involve toxicology or critical care when needed."
+  },
+  {
+    "id": 218,
+    "domain": "resuscitation",
+    "front": "Which checks prevent harm when a patient with suspected diabetic ketoacidosis is resuscitated?",
+    "back": "Confirm glucose and ketones, assess hydration and potassium and follow the local adult diabetic ketoacidosis protocol. Recheck potassium before insulin when indicated, monitor neurological state and use a guarded infusion system. Involve critical care for severe features."
+  },
+  {
+    "id": 219,
+    "domain": "resuscitation",
+    "front": "How do you confirm sustained return of spontaneous circulation after cardiac arrest?",
+    "back": "Use clinical signs plus a compatible rhythm: central pulse, measurable blood pressure, end-tidal carbon dioxide rise and signs of perfusion. Confirm the findings are sustained. Then begin post-resuscitation care immediately because another arrest remains possible."
+  },
+  {
+    "id": 220,
+    "domain": "resuscitation",
+    "front": "What airway plan applies to a comatose adult after return of spontaneous circulation?",
+    "back": "An experienced operator should usually place an advanced airway. Confirm tube position with waveform capnography and secure it. Continue controlled ventilation, monitor for displacement and involve critical care early. Reassess after every movement or transfer."
+  },
+  {
+    "id": 221,
+    "domain": "resuscitation",
+    "front": "What does a sudden loss of the capnography waveform after intubation require?",
+    "back": "Check for tube displacement, obstruction, disconnection, loss of cardiac output or equipment failure. Auscultate, inspect the tube and circuit and use direct visual or other approved confirmation. Correct the cause immediately and call for airway help."
+  },
+  {
+    "id": 222,
+    "domain": "resuscitation",
+    "front": "What oxygen strategy follows return of spontaneous circulation in an adult?",
+    "back": "Use the maximum available oxygen until saturation can be measured reliably, then titrate to 94 to 98 percent unless a different target is prescribed. Avoid hypoxia and hyperoxaemia. Recheck the probe and trend the requirement during transfer."
+  },
+  {
+    "id": 223,
+    "domain": "resuscitation",
+    "front": "What carbon dioxide target guides ventilation after return of spontaneous circulation?",
+    "back": "Ventilate towards normocapnia and use capnography or blood gas results to avoid both hypercapnia and hypocapnia. Adjust ventilation after each measurement. Consider the patient's usual carbon dioxide target only when a reliable baseline is documented."
+  },
+  {
+    "id": 224,
+    "domain": "resuscitation",
+    "front": "What blood pressure target supports perfusion after adult return of spontaneous circulation?",
+    "back": "Current Resuscitation Council UK guidance gives a systolic target above 100 mm Hg or a mean arterial pressure above 60 to 65 mm Hg. Use fluid and vasoactive support according to the cause and repeated assessment, and involve critical care."
+  },
+  {
+    "id": 225,
+    "domain": "resuscitation",
+    "front": "Which early test after return of spontaneous circulation can change the destination urgently?",
+    "back": "Obtain a 12-lead electrocardiogram. ST-elevation myocardial infarction or another high-risk ischaemic pattern needs urgent cardiology review and primary percutaneous coronary intervention according to the local pathway. Treat reversible causes while arranging transfer."
+  },
+  {
+    "id": 226,
+    "domain": "resuscitation",
+    "front": "What temperature target is used for a comatose adult after return of spontaneous circulation?",
+    "back": "Current UK guidance recommends targeting a temperature of 37.5 degrees Celsius or less. Discuss temperature management, sedation and shivering with intensive care. Do not actively rewarm a patient who is hypothermic without following the local protocol."
+  },
+  {
+    "id": 227,
+    "domain": "resuscitation",
+    "front": "Which metabolic checks belong in post-resuscitation care?",
+    "back": "Check blood glucose, potassium and other electrolytes, temperature and acid-base status. Correct dangerous abnormalities under senior guidance. Treat seizures and avoid hypoxia, hypotension and fever because each can worsen secondary brain injury."
+  },
+  {
+    "id": 228,
+    "domain": "resuscitation",
+    "front": "What is the immediate priority if seizures persist after return of spontaneous circulation?",
+    "back": "Protect the airway and ventilation, obtain glucose and treat ongoing seizure activity using the current status epilepticus pathway. Involve critical care early. Continuous seizure activity increases metabolic demand and can worsen brain injury."
+  },
+  {
+    "id": 229,
+    "domain": "resuscitation",
+    "front": "Why should early prognostication be avoided after return of spontaneous circulation?",
+    "back": "Sedation, drugs, temperature, seizures and organ dysfunction can affect the neurological examination. Use time, repeated assessment and specialist critical care review. Follow current guidance before making a reliable prognosis or discussing withdrawal of treatment."
+  },
+  {
+    "id": 230,
+    "domain": "resuscitation",
+    "front": "How should a team support a relative who is present during resuscitation?",
+    "back": "Assign a named staff member to stay with the relative, explain each phase briefly and prepare them for possible death. Offer the option to leave and keep them physically safe. Do not isolate them or give false reassurance about the outcome."
+  },
+  {
+    "id": 231,
+    "domain": "resuscitation",
+    "front": "What considerations guide a decision to stop adult resuscitation?",
+    "back": "Use the cause, duration and quality of resuscitation, reversible causes, the patient's known wishes and current guidance. Confirm asystole and check the patient and equipment. Involve the senior leader and team. A single elapsed time or value does not make the decision alone."
+  },
+  {
+    "id": 232,
+    "domain": "resuscitation",
+    "front": "What should a resuscitation handover include after return of spontaneous circulation?",
+    "back": "Give the arrest circumstances, initial rhythm, shocks, drugs and timings, airway, return-of-circulation time, observations, investigations, suspected cause and family communication. State outstanding risks and the next review or destination. Keep the sequence clear and concise."
+  },
+  {
+    "id": 233,
+    "domain": "resuscitation",
+    "front": "What safe fallback applies when a defibrillator fails during cardiac arrest?",
+    "back": "Announce the failure, continue high-quality compressions and send a named person for replacement equipment. Check pads, cable, battery and mode only if this will not delay a working device. State aloud that resuscitation continues while the fallback is arranged."
+  },
+  {
+    "id": 234,
+    "domain": "resuscitation",
+    "front": "How should the leader respond when an airway procedure fails?",
+    "back": "Declare failure, call for more experienced help and revert to the safest working ventilation method while continuing compressions. Follow the difficult-airway pathway and name the next attempt. Reassess oxygenation, carbon dioxide and the procedure's complications."
+  },
+  {
+    "id": 235,
+    "domain": "resuscitation",
+    "front": "Which four questions belong in a short resuscitation team debrief?",
+    "back": "Ask what went well, what created difficulty, what teamwork or equipment should be repeated and what must change. Include clinical cause, communication, task allocation and staff wellbeing. Record agreed actions and refer to the local review process when needed."
+  },
+  {
+    "id": 236,
+    "domain": "injured_patient",
+    "front": "What first step can precede the standard airway assessment in major trauma?",
+    "back": "Control catastrophic external haemorrhage first using direct pressure, wound packing or a haemostatic dressing, or a tourniquet for life-threatening limb bleeding when pressure fails. Then move promptly to airway, breathing and circulation. Record tourniquet application time."
+  },
+  {
+    "id": 237,
+    "domain": "injured_patient",
+    "front": "Which facts must be documented after applying a limb tourniquet?",
+    "back": "Record the indication, exact application time and who applied it. Document distal neurological and vascular findings, whether bleeding was controlled, pain and planned reassessment. Tell the receiving clinician so the tourniquet is not missed during handover."
+  },
+  {
+    "id": 238,
+    "domain": "injured_patient",
+    "front": "What information belongs in a trauma team handover before the primary survey?",
+    "back": "State mechanism and time of injury, suspected injuries, observations and trend, treatment given and response, allergies, medicines, last meal and available history. Continue immediate treatment during the handover. Do not let the story delay control of catastrophic bleeding."
+  },
+  {
+    "id": 239,
+    "domain": "injured_patient",
+    "front": "What is the repeated primary survey order for a major trauma patient?",
+    "back": "Control catastrophic haemorrhage, then assess airway with spinal protection, breathing, circulation, disability and exposure with temperature control. Treat threats as they are found, keep the patient warm and repeat the relevant part after every intervention."
+  },
+  {
+    "id": 240,
+    "domain": "injured_patient",
+    "front": "What skilled airway step applies before moving a trauma patient's head or neck manually?",
+    "back": "Use manual in-line stabilisation when spine protection is needed and the airway cannot be managed in the neutral position. Call the most experienced airway clinician early. Reassess the airway after collars, dressings, suction or position changes."
+  },
+  {
+    "id": 241,
+    "domain": "injured_patient",
+    "front": "Which trauma chest threats are treated before detailed imaging?",
+    "back": "Treat tension pneumothorax, open pneumothorax with major breathing compromise, massive haemothorax, flail chest and severe pulmonary contusion as immediate threats. Follow local trauma procedures and reassess airway, breathing and circulation after each intervention."
+  },
+  {
+    "id": 242,
+    "domain": "injured_patient",
+    "front": "What immediate management is required for a suspected massive haemothorax?",
+    "back": "Support oxygenation and ventilation, gain access and activate the major haemorrhage pathway. Arrange urgent chest drainage and definitive haemorrhage control with senior trauma, surgical and critical care teams. Reassess circulation and anticipate further blood loss."
+  },
+  {
+    "id": 243,
+    "domain": "injured_patient",
+    "front": "Where is a pelvic binder applied and what examination should be avoided?",
+    "back": "Apply the binder at the level of the greater trochanters when an unstable pelvic fracture with suspected bleeding is identified. Avoid repeated springing of the pelvis because further movement can increase bleeding. Reassess perfusion and look for other bleeding."
+  },
+  {
+    "id": 244,
+    "domain": "injured_patient",
+    "front": "Which facts justify activating a major haemorrhage pathway?",
+    "back": "Use the injury pattern, shock, ongoing bleeding and poor response to initial treatment rather than one isolated number. Activate through local policy, request blood products, warming and calcium as directed, and simultaneously arrange definitive haemorrhage control."
+  },
+  {
+    "id": 245,
+    "domain": "injured_patient",
+    "front": "What timing rule governs tranexamic acid in major trauma with suspected bleeding?",
+    "back": "NICE recommends intravenous tranexamic acid as soon as possible for major trauma with active or suspected bleeding, and advises against use more than three hours after injury unless hyperfibrinolysis is evidenced. Record the injury and administration times."
+  },
+  {
+    "id": 246,
+    "domain": "injured_patient",
+    "front": "Which three physiological problems form the lethal triad in major haemorrhage?",
+    "back": "Hypothermia, metabolic acidosis and coagulopathy worsen each other and increase bleeding. Keep the patient and room warm, limit exposure, use warmed fluids and blood products, monitor coagulation and follow local damage-control guidance."
+  },
+  {
+    "id": 247,
+    "domain": "injured_patient",
+    "front": "When should a stable adult with suspected multiple injuries be considered for whole-body CT?",
+    "back": "Use NICE and the trauma team's assessment when major trauma with suspected multiple injuries is present and the patient is physiologically able to tolerate transfer. Treat immediate threats first. Do not send a deteriorating patient to CT before haemorrhage control is addressed."
+  },
+  {
+    "id": 248,
+    "domain": "injured_patient",
+    "front": "Which head-injury features make urgent CT particularly important under NICE guidance?",
+    "back": "Follow the current NICE head injury criteria. Reduced consciousness, focal neurological deficit, seizure, signs of skull fracture, repeated vomiting, severe headache and anticoagulant treatment raise concern. Record the Glasgow Coma Scale with times and seek senior advice."
+  },
+  {
+    "id": 249,
+    "domain": "injured_patient",
+    "front": "What safe first-aid sequence applies to an acute burn in the emergency department?",
+    "back": "Stop the burning process, remove jewellery and loose clothing that is not stuck, and cool with cool running water for 20 minutes as soon as possible and within 3 hours of the injury, while preventing hypothermia. Cover with cling film or a clean non-adherent dressing. Assess burn size, depth and airway involvement."
+  },
+  {
+    "id": 250,
+    "domain": "injured_patient",
+    "front": "Which burn findings make inhalation injury an immediate airway red flag?",
+    "back": "Suspect inhalation injury with facial or mouth burns, soot, a hoarse voice, stridor, persistent cough or an enclosed-space fire. Involve anaesthesia early because airway swelling can progress quickly. Record the time and mechanism while continuing cooling and analgesia."
+  },
+  {
+    "id": 251,
+    "domain": "injured_patient",
+    "front": "What is the first priority when a trauma patient has catastrophic external bleeding?",
+    "back": "Control the bleeding first, before completing the standard ABCDE survey. Use firm direct pressure, wound packing or a haemostatic dressing where appropriate, and use a tourniquet for life-threatening limb bleeding when pressure fails."
+  },
+  {
+    "id": 252,
+    "domain": "injured_patient",
+    "front": "What sequence should guide the injured patient primary survey?",
+    "back": "Control catastrophic haemorrhage, then assess airway with spinal protection, breathing, circulation, disability and exposure. Treat threats as found, keep the patient warm and repeat the survey after every intervention."
+  },
+  {
+    "id": 253,
+    "domain": "injured_patient",
+    "front": "When is a limb tourniquet appropriate in major trauma?",
+    "back": "Use it for life-threatening limb bleeding when direct pressure, packing or a dressing fails or cannot be maintained. Record the application time, keep it visible and tell the receiving team."
+  },
+  {
+    "id": 254,
+    "domain": "injured_patient",
+    "front": "How should a deep bleeding wound be controlled before internal haemorrhage control?",
+    "back": "Apply direct pressure first. If the wound is compressible, pack it firmly to its depth with a haemostatic dressing according to local policy, maintain pressure and arrange urgent surgical or interventional control for ongoing bleeding."
+  },
+  {
+    "id": 255,
+    "domain": "injured_patient",
+    "front": "Which airway risks should be identified in facial trauma?",
+    "back": "Examine the mouth and oropharynx for blood, vomit, loose teeth, swelling or expanding haematoma, and consider skull base injury. Suction, request senior airway help early and avoid a nasal airway when the anatomy may be disrupted."
+  },
+  {
+    "id": 256,
+    "domain": "injured_patient",
+    "front": "How should you limit neck movement during trauma airway care?",
+    "back": "Use manual in-line stabilisation when head movement is needed, coordinate moves with the team and reassess the airway after every change. Remove a collar if it interferes with airway care or if the spinal pathway permits."
+  },
+  {
+    "id": 257,
+    "domain": "injured_patient",
+    "front": "How is tension pneumothorax recognised and treated in an unstable trauma patient?",
+    "back": "It is a clinical diagnosis when an unstable patient has severe respiratory distress, reduced breath sounds and shock-linked signs. Decompress immediately using the approved technique, then place a chest drain and reassess."
+  },
+  {
+    "id": 258,
+    "domain": "injured_patient",
+    "front": "What signs suggest a massive haemothorax?",
+    "back": "Suspect it with severe shock, reduced breath sounds, dullness and a chest that may be difficult to ventilate after injury. Secure the airway, activate major haemorrhage support and arrange urgent blood products and definitive chest drainage."
+  },
+  {
+    "id": 259,
+    "domain": "injured_patient",
+    "front": "Where should a pelvic binder sit?",
+    "back": "Place it over the greater trochanters, not the iliac crests. Reassess the patient after application and avoid repeated pelvic springing because further movement may worsen bleeding."
+  },
+  {
+    "id": 260,
+    "domain": "injured_patient",
+    "front": "What checks are needed after splinting a long bone fracture?",
+    "back": "Check distal pulses, colour, warmth, sensation and motor function before and after splinting. Provide analgesia, document the change and escalate immediately if the limb becomes pulseless or ischaemic."
+  },
+  {
+    "id": 261,
+    "domain": "injured_patient",
+    "front": "Which three circulation findings should the trauma team report together?",
+    "back": "Report blood pressure, heart rate and capillary refill alongside skin colour, mental state and external blood loss. Trend and timing matter more than one isolated observation."
+  },
+  {
+    "id": 262,
+    "domain": "injured_patient",
+    "front": "When should the major haemorrhage protocol be activated?",
+    "back": "Activate it early for suspected major bleeding, abnormal perfusion, poor response to initial treatment or ongoing blood loss. Base the decision on the injury, physiology and trend, not one score alone."
+  },
+  {
+    "id": 263,
+    "domain": "injured_patient",
+    "front": "Why should blood products replace repeated crystalloid boluses in haemorrhagic shock?",
+    "back": "Blood products replace oxygen-carrying capacity and clotting components while bleeding is controlled. Repeated crystalloid can dilute clotting factors, worsen oedema and raise pressure before the bleeding source is secured."
+  },
+  {
+    "id": 264,
+    "domain": "injured_patient",
+    "front": "What three conditions form the lethal triad in severe trauma?",
+    "back": "Hypothermia, acidosis and coagulopathy. Prevent heat loss, use warmed treatment, give blood products and calcium as guided, and monitor clot formation and perfusion throughout damage-control resuscitation."
+  },
+  {
+    "id": 265,
+    "domain": "injured_patient",
+    "front": "When should tranexamic acid be given after major trauma?",
+    "back": "Give intravenous tranexamic acid as soon as possible when major trauma has active or suspected active bleeding. NICE advises against giving it more than three hours after injury unless hyperfibrinolysis is evident."
+  },
+  {
+    "id": 266,
+    "domain": "injured_patient",
+    "front": "What must be monitored during large-volume blood product resuscitation?",
+    "back": "Monitor calcium, temperature, acid-base status, clotting, potassium and the clinical response. Give calcium when indicated and follow local major haemorrhage guidance, because stored blood products can lower calcium."
+  },
+  {
+    "id": 267,
+    "domain": "injured_patient",
+    "front": "When should an adult with blunt major trauma be assessed for immediate whole-body CT?",
+    "back": "Use NICE and trauma-team guidance when multiple serious injuries are suspected and the patient can tolerate transfer. Treat immediate airway, breathing and bleeding threats first."
+  },
+  {
+    "id": 268,
+    "domain": "injured_patient",
+    "front": "Why should a persistently unstable trauma patient not go straight to CT?",
+    "back": "CT is unsafe while immediate threats remain uncontrolled or transfer will delay definitive treatment. Stop major bleeding, secure the airway and discuss damage-control surgery or another immediate destination with the trauma team."
+  },
+  {
+    "id": 269,
+    "domain": "injured_patient",
+    "front": "What does a negative FAST scan mean in blunt trauma?",
+    "back": "It reduces but does not remove concern for internal injury. A negative scan cannot exclude small, early or retroperitoneal bleeding, so repeat the assessment and use the patient's physiology and injury pattern."
+  },
+  {
+    "id": 270,
+    "domain": "injured_patient",
+    "front": "Which head-injured patients need a lower threshold for urgent CT?",
+    "back": "Use NICE head injury guidance. Patients taking anticoagulants, those with a seizure, focal deficit, reduced Glasgow Coma Scale, suspected skull fracture or worsening symptoms need urgent senior review and CT when criteria are met."
+  },
+  {
+    "id": 271,
+    "domain": "injured_patient",
+    "front": "What two physiological problems worsen secondary brain injury?",
+    "back": "Hypoxia and hypotension. Maintain oxygenation, support circulation, check glucose, trend the Glasgow Coma Scale and pupils, and arrange early neurosurgical discussion when indicated by NICE and local trauma guidance."
+  },
+  {
+    "id": 272,
+    "domain": "injured_patient",
+    "front": "How should suspected spinal injury be assessed in an awake trauma patient?",
+    "back": "Use a validated pathway, examine for pain, tenderness, neurological symptoms and distracting injury, and document findings before reducing immobilisation. Use imaging when the pathway requires it."
+  },
+  {
+    "id": 273,
+    "domain": "injured_patient",
+    "front": "What is the initial cooling action for a thermal burn?",
+    "back": "Stop the burning process and cool the burn with cool running water for the recommended duration while preventing hypothermia. Remove jewellery and loose clothing, cover the area and assess for airway involvement."
+  },
+  {
+    "id": 274,
+    "domain": "injured_patient",
+    "front": "Which burn features require urgent airway escalation?",
+    "back": "Escalate for facial burns, soot around the mouth or nose, hoarse voice, stridor, worsening cough or an enclosed-space fire. Call anaesthesia early because airway swelling may progress rapidly."
+  },
+  {
+    "id": 275,
+    "domain": "injured_patient",
+    "front": "Why should pelvic springing be avoided after suspected pelvic injury?",
+    "back": "Repeated movement may disrupt clots and increase bleeding. Apply a binder when indicated, inspect once, record the finding and reassess perfusion without repeating the painful examination."
+  },
+  {
+    "id": 276,
+    "domain": "injured_patient",
+    "front": "Which penetrating trauma patients need immediate surgical discussion?",
+    "back": "Discuss urgently when bleeding is uncontrolled, peritonism or shock is present, or the trajectory could injure major vessels or organs. Do not allow prolonged resuscitation in the emergency department to delay operative control."
+  },
+  {
+    "id": 277,
+    "domain": "injured_patient",
+    "front": "Which facts belong in a trauma referral?",
+    "back": "Give age, mechanism and time of injury, immediate threats, observations and trend, interventions and response, suspected injuries, imaging already performed and the specific decision you need."
+  },
+  {
+    "id": 278,
+    "domain": "injured_patient",
+    "front": "What must be repeated before transferring a trauma patient?",
+    "back": "Repeat the primary survey and confirm airway patency, ventilation, perfusion, warming, monitoring, packaging and the receiving team. Give a concise handover that names the outstanding question and family update owner."
+  },
+  {
+    "id": 279,
+    "domain": "injured_patient",
+    "front": "Which return precautions should follow minor head injury discharge?",
+    "back": "Use NICE and local head injury advice. Tell the patient to return urgently for worsening headache, repeated vomiting, confusion, seizure, weakness, vision change or unusual drowsiness, and confirm someone can observe them."
+  },
+  {
+    "id": 280,
+    "domain": "injured_patient",
+    "front": "Why must older adults receive a lower threshold for injury assessment after a fall?",
+    "back": "Frailty, anticoagulants and reduced physiological reserve can hide serious injury or deterioration. Check mechanism, medication, mobility, head injury, neck and hip pain and the ability to return safely."
+  },
+  {
+    "id": 281,
+    "domain": "injured_patient",
+    "front": "Which mechanism details change trauma priorities?",
+    "back": "Record the exact time and energy of injury, restraint use, ejection, entrapment, blast exposure, height or weapon. These details generate specific injury patterns and guide imaging, specialist referral and transfer."
+  },
+  {
+    "id": 282,
+    "domain": "injured_patient",
+    "front": "When may emergency injury treatment proceed without consent?",
+    "back": "Proceed only when treatment is immediately necessary to save life or prevent serious harm and the patient lacks capacity to consent. Record the clinical reason and involve senior legal, safeguarding or specialty advice when time allows."
+  },
+  {
+    "id": 283,
+    "domain": "injured_patient",
+    "front": "What should be reassessed after trauma analgesia?",
+    "back": "Reassess pain, level of consciousness, respiratory rate, blood pressure, pulse and the abdomen. Analgesia may reveal or hide deterioration, so document the response and repeat the primary survey."
+  },
+  {
+    "id": 284,
+    "domain": "injured_patient",
+    "front": "Which checks are needed before closing a contaminated wound?",
+    "back": "Assess mechanism, contamination, depth, foreign material, tendon or nerve function and distal perfusion. Confirm tetanus status, imaging need, antibiotic need under local policy and safe follow-up."
+  },
+  {
+    "id": 285,
+    "domain": "injured_patient",
+    "front": "What signs suggest acute limb ischaemia after injury?",
+    "back": "Suspect it with severe pain, pallor, coolness, reduced or absent pulse, paraesthesia or weakness. Record the time, provide analgesia and arrange immediate vascular and orthopaedic assessment."
+  },
+  {
+    "id": 286,
+    "domain": "injured_patient",
+    "front": "What is the earliest reliable sign of compartment syndrome?",
+    "back": "Severe pain that is out of proportion to the injury and worsens with passive stretch is an early warning. Do not wait for pulselessness. Remove constriction, reassess urgently and call orthopaedics."
+  },
+  {
+    "id": 287,
+    "domain": "injured_patient",
+    "front": "How should an amputated part be preserved?",
+    "back": "Wrap the part in a clean, moist dressing, seal it in a plastic bag and place the bag in cold water or ice slurry. Do not place tissue directly on ice. Control bleeding and transfer urgently."
+  },
+  {
+    "id": 288,
+    "domain": "injured_patient",
+    "front": "Which patients need additional caution with trauma radiation?",
+    "back": "Children, pregnant patients and those needing repeated scans have greater relative radiation risk. Use the minimum imaging that answers a decision-changing question, involve specialists early and shield when this does not delay care."
+  },
+  {
+    "id": 289,
+    "domain": "injured_patient",
+    "front": "Which burns require specialist referral?",
+    "back": "Follow the local burns pathway. Refer burns affecting the face, hands, feet, joints, genitalia or perineum, circumferential burns, significant inhalation injury, electrical or chemical burns, and burns in vulnerable patients or above local size thresholds."
+  },
+  {
+    "id": 290,
+    "domain": "injured_patient",
+    "front": "What should the team lead state after the first trauma survey?",
+    "back": "State the threats found, the leading injury pattern, interventions already started, the response and the next destination. Assign owners for outstanding procedures, blood products, imaging and family communication."
+  },
+  {
+    "id": 291,
+    "domain": "paediatric_emergency",
+    "front": "What three areas form the paediatric assessment triangle?",
+    "back": "Assess appearance, work of breathing and circulation to the skin before touching the child. State the first impression, repeat it after interventions and combine it with observations and history."
+  },
+  {
+    "id": 292,
+    "domain": "paediatric_emergency",
+    "front": "Which appearance findings need urgent senior review?",
+    "back": "Unusual floppiness, poor interaction, reduced responsiveness, continuous irritability or a weak cry may signal serious illness. Compare with the carer's view of normal and reassess after comfort and treatment."
+  },
+  {
+    "id": 293,
+    "domain": "paediatric_emergency",
+    "front": "Which work-of-breathing signs indicate severe distress?",
+    "back": "Look for grunting, marked indrawing, nasal flaring, seesaw breathing, tripod positioning, stridor or exhaustion. A falling effort in a tired child can signal impending respiratory failure."
+  },
+  {
+    "id": 294,
+    "domain": "paediatric_emergency",
+    "front": "How should shock be suspected from circulation to the skin?",
+    "back": "Look for pallor, mottling, sweating, cool peripheries and delayed capillary refill in a warm room. Combine these with alertness, pulses, urine output and feeding rather than relying on colour alone."
+  },
+  {
+    "id": 295,
+    "domain": "paediatric_emergency",
+    "front": "How should you choose paediatric equipment when the weight is unknown?",
+    "back": "Use a locally approved length-based or age-based estimate as a starting aid, then update it with an actual weight when safe. State uncertainty and seek senior help before a high-risk dose."
+  },
+  {
+    "id": 296,
+    "domain": "paediatric_emergency",
+    "front": "Which checks follow every paediatric weight-based medicine calculation?",
+    "back": "Confirm weight, dose per kilogram, maximum dose, concentration, route, rate, age limit, allergy and local protocol. State the total dose in milligrams and obtain an independent calculation check."
+  },
+  {
+    "id": 297,
+    "domain": "paediatric_emergency",
+    "front": "How should an 18 kg child's 10 mL/kg fluid bolus be calculated and reviewed?",
+    "back": "The proposed volume is 180 mL. Before giving it, confirm that a bolus fits the cause and local pathway, then reassess perfusion, breathing and response for overload after the specified volume."
+  },
+  {
+    "id": 298,
+    "domain": "paediatric_emergency",
+    "front": "Why should a second clinician check a high-risk paediatric dose?",
+    "back": "Independent checking catches calculation, decimal, concentration and route errors. Read the weight and dose aloud, confirm the final volume against the formulary and label the medicine immediately."
+  },
+  {
+    "id": 299,
+    "domain": "paediatric_emergency",
+    "front": "Which airway differences make infants harder to manage?",
+    "back": "Infants have a relatively large head and tongue, a short neck and a narrow larynx. Keep the airway aligned, avoid unnecessary stimulation and involve the most experienced airway clinician early."
+  },
+  {
+    "id": 300,
+    "domain": "paediatric_emergency",
+    "front": "Why is bradycardia in a hypoxic child an emergency?",
+    "back": "It may signal severe hypoxia and imminent cardiac arrest. Support airway and breathing, give oxygen as indicated, call for help and reassess the heart rate and perfusion without delay."
+  },
+  {
+    "id": 301,
+    "domain": "paediatric_emergency",
+    "front": "Give a calm opening phrase for a child and worried carer.",
+    "back": "Say, \"I can see that you are worried. I am going to check how he is breathing and ask a few questions while you stay close.\" Use the child's name and explain each step briefly."
+  },
+  {
+    "id": 302,
+    "domain": "paediatric_emergency",
+    "front": "How should a child with breathing difficulty be examined first?",
+    "back": "Observe before auscultating. Assess speech or cry, effort, air entry, added sounds, saturation in context and response to positioning or oxygen, while keeping the child with the carer."
+  },
+  {
+    "id": 303,
+    "domain": "paediatric_emergency",
+    "front": "What should you avoid in suspected upper airway obstruction?",
+    "back": "Do not inspect the throat with a spatula or cause distress before the airway team is ready. Keep the child calm, allow their chosen position, give oxygen if tolerated and call senior airway help."
+  },
+  {
+    "id": 304,
+    "domain": "paediatric_emergency",
+    "front": "What position helps a child with severe breathing difficulty?",
+    "back": "Allow the position the child has chosen because it may keep the airway open. Do not force the child to lie flat, and support the carer to keep the child calm while help arrives."
+  },
+  {
+    "id": 305,
+    "domain": "paediatric_emergency",
+    "front": "Which paediatric respiratory change signals exhaustion?",
+    "back": "A falling respiratory rate, quieter cry, reduced interaction or a silent chest may signal fatigue and impending failure. Escalate immediately while continuing airway, breathing and circulatory support."
+  },
+  {
+    "id": 306,
+    "domain": "paediatric_emergency",
+    "front": "When does cyanosis appear in a sick child?",
+    "back": "It is often a late and unreliable sign of poor oxygenation. Act earlier on pallor, mottling, severe work of breathing, reduced consciousness and worsening saturation."
+  },
+  {
+    "id": 307,
+    "domain": "paediatric_emergency",
+    "front": "How should a child's respiratory rate be counted?",
+    "back": "Count for a full minute when possible because young children breathe irregularly. Interpret the number with age, effort, interaction, trend and the carer's account of baseline."
+  },
+  {
+    "id": 308,
+    "domain": "paediatric_emergency",
+    "front": "Which findings suggest significant paediatric dehydration?",
+    "back": "Look for reduced wet nappies, poor feeding, dry mucous membranes, sunken eyes, reduced tears, drowsiness, tachycardia and delayed capillary refill. Weigh the child and follow NICE assessment guidance for age."
+  },
+  {
+    "id": 309,
+    "domain": "paediatric_emergency",
+    "front": "How should the response to paediatric shock treatment be assessed?",
+    "back": "Reassess mental state, work of breathing, heart rate, blood pressure, capillary refill, skin temperature, urine output and feeding. Repeat observations after each intervention and look for fluid overload."
+  },
+  {
+    "id": 310,
+    "domain": "paediatric_emergency",
+    "front": "Why should fluid boluses be reviewed carefully in a child with cardiac or renal concern?",
+    "back": "The usual shock pathway may not fit because excess fluid can cause pulmonary oedema. Give measured volumes only under the appropriate pathway and reassess breathing, liver size and perfusion after each step."
+  },
+  {
+    "id": 311,
+    "domain": "paediatric_emergency",
+    "front": "Why check a capillary glucose in a child with altered consciousness?",
+    "back": "Hypoglycaemia is a reversible cause of abnormal behaviour, seizure and reduced consciousness. Treat it promptly according to age and local protocol, then look for the cause and reassess neurology."
+  },
+  {
+    "id": 312,
+    "domain": "paediatric_emergency",
+    "front": "What does the NICE under-five fever traffic light describe?",
+    "back": "It combines colour, activity, respiratory status, hydration, circulation and other features into low, intermediate or high risk of serious illness. Use it with age, observations and clinical judgement."
+  },
+  {
+    "id": 313,
+    "domain": "paediatric_emergency",
+    "front": "Which young infants are high risk with fever?",
+    "back": "An infant under three months with a temperature of 38 degrees Celsius or above is high risk under NICE guidance. Arrange urgent paediatric review and investigation according to the local pathway."
+  },
+  {
+    "id": 314,
+    "domain": "paediatric_emergency",
+    "front": "Which fever red flags require immediate senior review?",
+    "back": "A non-blanching rash, reduced consciousness, severe breathing difficulty, poor perfusion, very low urine output, unusual irritability or a child who looks very unwell needs urgent review and sepsis consideration."
+  },
+  {
+    "id": 315,
+    "domain": "paediatric_emergency",
+    "front": "How should a child with suspected sepsis be treated while waiting for the paediatric team?",
+    "back": "Follow NICE NG254 and the local paediatric pathway. For high-risk sepsis, give broad-spectrum IV or intraosseous antibiotics within 1 hour of identifying the risk; cultures must not delay this target. Give glucose-free, sodium-containing crystalloid at 10 mL/kg over less than 10 minutes, up to 250 mL, with smaller volumes for cardiac or kidney disease. Reassess after the first bolus, give a second bolus only if there is no improvement, and alert a consultant to attend in person if there is no improvement after the second."
+  },
+  {
+    "id": 316,
+    "domain": "paediatric_emergency",
+    "front": "Why should parental concern influence paediatric assessment?",
+    "back": "Carers know the child's normal behaviour and may notice subtle deterioration. Treat reported fever and persistent concern as useful information, combine them with observations and set a clear review plan."
+  },
+  {
+    "id": 317,
+    "domain": "paediatric_emergency",
+    "front": "Which NICE fever risk features include the carer's account?",
+    "back": "Reported fever and parental concern feature in NICE risk assessment. They matter alongside age, colour, activity, breathing, hydration and circulation, rather than being dismissed because a child seems playful."
+  },
+  {
+    "id": 318,
+    "domain": "paediatric_emergency",
+    "front": "Which safeguarding features question an injury explanation?",
+    "back": "Consider injury that does not fit the account, explanations that change, delay in seeking care, repeated similar attendances, unexplained marks in an infant or fear of a particular adult. These raise concern but do not prove abuse."
+  },
+  {
+    "id": 319,
+    "domain": "paediatric_emergency",
+    "front": "Which repeated patterns should prompt safeguarding advice?",
+    "back": "Repeated injury or illness presentations, inconsistent histories, missed appointments after concerns and a carer who prevents the child speaking can compound risk. Contact the named safeguarding professional early."
+  },
+  {
+    "id": 320,
+    "domain": "paediatric_emergency",
+    "front": "How should you explain confidentiality limits to a child?",
+    "back": "Use honest age-appropriate words: \"I will listen carefully. If I think you may not be safe, I may need to speak to other professionals who help keep children safe. I will tell you what I am doing whenever I can.\""
+  },
+  {
+    "id": 321,
+    "domain": "paediatric_emergency",
+    "front": "How should a child's disclosure be recorded?",
+    "back": "Record the child's words in quotation marks where possible, who was present, what was observed and whether anything was said by staff. Separate facts from opinion and use an objective body map when appropriate."
+  },
+  {
+    "id": 322,
+    "domain": "paediatric_emergency",
+    "front": "What principle guides information sharing in safeguarding?",
+    "back": "Share necessary, proportionate information that supports the child's safety and interests. Ask the safeguarding lead for advice, explaining what is shared and why, without promising secrecy you cannot keep."
+  },
+  {
+    "id": 323,
+    "domain": "paediatric_emergency",
+    "front": "What should happen if a child may be in immediate danger?",
+    "back": "Keep the child in a safe supervised clinical area, address urgent medical needs, and involve the safeguarding lead and police according to the local pathway. A hospital clinician must not physically detain the child or block removal unless another person or order provides lawful authority. In England and Wales, where the Children Act 1989 section 46 criteria are met, a constable can take steps to keep the child in hospital or remove the child to suitable accommodation; seek safeguarding and legal advice promptly."
+  },
+  {
+    "id": 324,
+    "domain": "paediatric_emergency",
+    "front": "Which needs should be considered after suspected sexual assault in a child?",
+    "back": "Address immediate medical needs, safeguarding and police liaison, forensic preservation and sexual health support. Use a trained examiner and specialist pathway, and consider other children who may be at risk."
+  },
+  {
+    "id": 325,
+    "domain": "paediatric_emergency",
+    "front": "How should confidentiality be explained to an adolescent?",
+    "back": "Ask who they want present and explain confidentiality in age-appropriate terms. Capacity is decision-specific, so seek senior and safeguarding advice when the young person's choices conflict with parent involvement."
+  },
+  {
+    "id": 326,
+    "domain": "paediatric_emergency",
+    "front": "What should you do when a carer declines necessary treatment?",
+    "back": "Explore the reason, correct misunderstandings, explain foreseeable harm and involve a senior clinician. Keep the child safe while the disagreement is resolved and follow the relevant legal and local pathway."
+  },
+  {
+    "id": 327,
+    "domain": "paediatric_emergency",
+    "front": "When may emergency paediatric treatment proceed without consent?",
+    "back": "Only when treatment is immediately necessary to save life or prevent serious harm, under the applicable law and local policy. This is not a solo decision; involve senior, safeguarding and legal expertise as time allows."
+  },
+  {
+    "id": 328,
+    "domain": "paediatric_emergency",
+    "front": "How can you offer a frightened child safe choices?",
+    "back": "Get to the child's eye level, use their name and offer choices only where both options are safe, such as sitting with the carer. Explain before touching and use play or distraction without bargaining over essential care."
+  },
+  {
+    "id": 329,
+    "domain": "paediatric_emergency",
+    "front": "How should you explain priorities to a worried carer?",
+    "back": "Name the most urgent problem and what is happening now. Say what you are preparing and when you will update them, avoiding blame for delayed attendance and avoiding promises you cannot keep."
+  },
+  {
+    "id": 330,
+    "domain": "paediatric_emergency",
+    "front": "What belongs in a paediatric SBAR escalation?",
+    "back": "State the child's condition and trend, relevant background, assessment of airway, breathing, circulation and neurology, and the specific action requested. Read back the response and name who is coming."
+  },
+  {
+    "id": 331,
+    "domain": "paediatric_emergency",
+    "front": "When should a child be escalated before obvious collapse?",
+    "back": "Escalate for airway compromise, severe work of breathing, worsening hypoxia, shock, prolonged seizure, reduced consciousness, non-blanching rash, rising oxygen need or care beyond your competence."
+  },
+  {
+    "id": 332,
+    "domain": "paediatric_emergency",
+    "front": "What must a safe paediatric discharge include?",
+    "back": "Confirm reassessment, working problem, medicine doses and route, feeding and hydration advice, warning signs, follow-up owner, transport and access to care. Ask the carer to repeat the plan."
+  },
+  {
+    "id": 333,
+    "domain": "paediatric_emergency",
+    "front": "What is a strong closing commitment in a paediatric station?",
+    "back": "Name the remaining problem, current treatment, senior clinician coming, observation plan and destination. Say, \"I will stay, reassess the response and not move or discharge him before senior review.\""
+  },
+  {
+    "id": 334,
+    "domain": "paediatric_emergency",
+    "front": "How should a weight estimate be used in a deteriorating child?",
+    "back": "Treat it as temporary until an actual or approved measured weight is available. State the uncertainty, prepare weight-based equipment early and have a senior clinician check high-risk drug doses."
+  },
+  {
+    "id": 335,
+    "domain": "paediatric_emergency",
+    "front": "Which paediatric prescribing reference should guide medication doses?",
+    "back": "Use the British National Formulary for Children or the locally approved paediatric formulary. Confirm the dose, concentration and maximum for this child and check the local emergency guideline."
+  },
+  {
+    "id": 336,
+    "domain": "paediatric_emergency",
+    "front": "Why does a maximum dose matter in paediatric prescribing?",
+    "back": "Weight-based calculations can exceed an adult maximum as a child grows. Check the age and weight limit, maximum dose, concentration and route before administration and have the result independently verified."
+  },
+  {
+    "id": 337,
+    "domain": "paediatric_emergency",
+    "front": "Which details belong on a paediatric infusion plan?",
+    "back": "State the total drug, final fluid volume, concentration, dose per kilogram, infusion rate and duration. Use a guarded pump when required and avoid unapproved concentration changes at the bedside."
+  },
+  {
+    "id": 338,
+    "domain": "paediatric_emergency",
+    "front": "Why should a paediatric drug concentration be stated explicitly?",
+    "back": "Different strengths can look similar but produce very different volumes. Confirm the concentration, calculate against it, label the syringe immediately and trace the medicine from source to patient."
+  },
+  {
+    "id": 339,
+    "domain": "paediatric_emergency",
+    "front": "Why is copying a volume from another child unsafe?",
+    "back": "Children differ in weight, age, indication, comorbidity and the concentration supplied. Calculate from this child's current weight and formulary limit, then use an independent check."
+  },
+  {
+    "id": 340,
+    "domain": "paediatric_emergency",
+    "front": "What line and syringe checks reduce paediatric medication error?",
+    "back": "Label syringes immediately with drug, dose, concentration, route and time. Trace each line from source to patient, avoid interrupting the person preparing a high-risk drug and use approved infusion sets."
+  },
+  {
+    "id": 341,
+    "domain": "paediatric_emergency",
+    "front": "Which factors can invalidate a weight-based paediatric dose?",
+    "back": "The indication, actual weight, age limit, allergy, renal or liver disease, maximum dose, concentration and intended route can all change safety. Recheck each against this child's record and the formulary."
+  },
+  {
+    "id": 342,
+    "domain": "paediatric_emergency",
+    "front": "What is the Resuscitation Council UK sequence for an infant choking with an ineffective cough?",
+    "back": "Give up to five back blows, then up to five chest thrusts, alternating until the obstruction clears. Do not use abdominal thrusts in an infant. If the infant becomes unresponsive, call for help and start paediatric CPR."
+  },
+  {
+    "id": 343,
+    "domain": "paediatric_emergency",
+    "front": "Which compression to ventilation ratio should trained staff use in paediatric CPR?",
+    "back": "Current Resuscitation Council UK guidance uses five initial rescue breaths and then 15 compressions to two ventilations for staff trained in paediatric basic life support. Untrained staff or those trained only in adult BLS use 30:2."
+  },
+  {
+    "id": 344,
+    "domain": "paediatric_emergency",
+    "front": "What is the safe approach to a child with a non-blanching rash?",
+    "back": "Treat the child as potentially seriously unwell until assessed. Check observations, perfusion, consciousness and hydration, call senior help and start the sepsis pathway promptly while evaluating other causes."
+  },
+  {
+    "id": 345,
+    "domain": "paediatric_emergency",
+    "front": "What should happen before moving a sick child between areas?",
+    "back": "Confirm airway, breathing and circulation, secure monitoring and access, check drug and oxygen supplies, assign escorts and tell the receiving team the trend and action needed."
+  },
+  {
+    "id": 346,
+    "domain": "supervision_teaching",
+    "front": "What is the main purpose of the supervision and teaching station?",
+    "back": "Improve the learner's observable performance while keeping this patient safe. The teacher retains clinical accountability, identifies the learner's need and leaves a clear next action."
+  },
+  {
+    "id": 347,
+    "domain": "supervision_teaching",
+    "front": "What is the teacher's responsibility when a learner performs a procedure?",
+    "back": "The teacher remains responsible for patient safety. Confirm indication, consent, supervision level, equipment and rescue support, and stop the task if the patient or technique becomes unsafe."
+  },
+  {
+    "id": 348,
+    "domain": "supervision_teaching",
+    "front": "Which learner details should be checked before teaching?",
+    "back": "Ask about current role, stage of training, previous experience, what they find difficult and what they want observed. Match supervision to this learner, task and patient."
+  },
+  {
+    "id": 349,
+    "domain": "supervision_teaching",
+    "front": "Give an opening phrase that sets safe supervision.",
+    "back": "Say, \"Tell me what you have done before, what you find difficult and what you want me to watch. I will stay responsible for the patient and stop you if I see a safety concern.\""
+  },
+  {
+    "id": 350,
+    "domain": "supervision_teaching",
+    "front": "What makes a teaching goal observable?",
+    "back": "Write one or two actions an examiner could see, such as completing a red-flag screen, explaining a diagnosis and stating follow-up. Avoid vague goals such as being more confident."
+  },
+  {
+    "id": 351,
+    "domain": "supervision_teaching",
+    "front": "How should you turn \"communicate better\" into a teaching goal?",
+    "back": "State the exact behaviours, for example asking the patient's permission, explaining two possible causes and checking understanding before closing. The learner can then practise and receive evidence-based feedback."
+  },
+  {
+    "id": 352,
+    "domain": "supervision_teaching",
+    "front": "Why ask before telling during clinical teaching?",
+    "back": "Asking what the learner knows or plans activates their thinking and reveals the gap. It prevents unnecessary teaching and gives you evidence for focused feedback before you give the answer."
+  },
+  {
+    "id": 353,
+    "domain": "supervision_teaching",
+    "front": "Which three questions quickly reveal a learner's plan?",
+    "back": "Ask what they are trying to achieve, what they think the main risk is and what they would do next. Listen without filling every pause, then correct any immediate danger."
+  },
+  {
+    "id": 354,
+    "domain": "supervision_teaching",
+    "front": "What should happen before a learner starts a clinical task?",
+    "back": "Ask the learner to state a short plan. Correct an unsafe plan immediately, and allow a safe imperfect plan to proceed under observation so the result can guide feedback."
+  },
+  {
+    "id": 355,
+    "domain": "supervision_teaching",
+    "front": "When should a teacher stop a learner and take control?",
+    "back": "Take over when the learner's plan or action threatens the patient, equipment is unsafe or the learner freezes. State the safety reason briefly, lead the clinical response and teach after the patient is stable."
+  },
+  {
+    "id": 356,
+    "domain": "supervision_teaching",
+    "front": "Should an imperfect but safe learner plan be stopped?",
+    "back": "Not automatically. Allow supervised practice when patient risk is acceptable, note the decision points and use what happens to give specific feedback. Stop only if safety or competence is threatened."
+  },
+  {
+    "id": 357,
+    "domain": "supervision_teaching",
+    "front": "How should a teacher prompt a learner who is stuck?",
+    "back": "Use the least help needed. Start with a direction, then narrow the choice, and give the answer last. Ask the learner to explain the answer back in this patient's context."
+  },
+  {
+    "id": 358,
+    "domain": "supervision_teaching",
+    "front": "How should a practical skill be demonstrated?",
+    "back": "State the goal and show the critical steps while explaining the thinking and safety checks. Keep to two or three key cues, then let the learner practise while you coach."
+  },
+  {
+    "id": 359,
+    "domain": "supervision_teaching",
+    "front": "Which details should a short skill demonstration highlight?",
+    "back": "Highlight the identity and site checks, one or two technique points, the dangerous complications and the rescue step. Explain why each pause or check exists rather than narrating every movement."
+  },
+  {
+    "id": 360,
+    "domain": "supervision_teaching",
+    "front": "How should communication skills be taught?",
+    "back": "Model a short phrase, explain why it helps and ask the learner to try it. Then give a different scenario so they can adapt the structure instead of merely copying words."
+  },
+  {
+    "id": 361,
+    "domain": "supervision_teaching",
+    "front": "What should be agreed before observing a learner?",
+    "back": "Agree what you will watch, such as sequence, safety checks, explanation, patient response or one decision point. Take brief notes using observable facts rather than labels."
+  },
+  {
+    "id": 362,
+    "domain": "supervision_teaching",
+    "front": "Why should observation notes describe behaviour?",
+    "back": "Observable wording lets the learner understand the evidence and reduces personal judgement. Write what was said or done and its effect, then use the notes to structure a fair debrief."
+  },
+  {
+    "id": 363,
+    "domain": "supervision_teaching",
+    "front": "How should a supervisor coach from the side?",
+    "back": "Use short prompts that support the learner's thinking, such as asking for the next safety check or the patient's response. Avoid taking over unless the patient becomes unsafe."
+  },
+  {
+    "id": 364,
+    "domain": "supervision_teaching",
+    "front": "What ends teaching if the patient deteriorates?",
+    "back": "Clinical care. The teacher states that learning is paused, leads the immediate response and calls for help. The teaching conversation resumes only after the patient is stable."
+  },
+  {
+    "id": 365,
+    "domain": "supervision_teaching",
+    "front": "What is the first step after a learner makes a clinical error?",
+    "back": "Make the patient safe and correct the immediate action. Then establish what happened, what the learner understood and which task, equipment, team or supervision factors contributed."
+  },
+  {
+    "id": 366,
+    "domain": "supervision_teaching",
+    "front": "Which system factors should be reviewed after a learner error?",
+    "back": "Consider experience, task design, equipment, environment, communication, staffing, fatigue and supervision. Address personal learning and system fixes, and follow incident or governance processes when required."
+  },
+  {
+    "id": 367,
+    "domain": "supervision_teaching",
+    "front": "How should feedback begin after observing an error?",
+    "back": "State the observed action, the patient effect and the standard expected. Ask for the learner's view before giving your explanation, then agree one specific change for the next attempt."
+  },
+  {
+    "id": 368,
+    "domain": "supervision_teaching",
+    "front": "Why name a behaviour that worked in feedback?",
+    "back": "Specific praise shows what to repeat and makes feedback credible. Explain why the behaviour helped this patient, then pair it with one evidence-based change before the next attempt."
+  },
+  {
+    "id": 369,
+    "domain": "supervision_teaching",
+    "front": "How many changes should a short teaching debrief leave?",
+    "back": "Usually one clear, observable change is enough for a busy shift. Agree the action, the setting for practice, the review date and who will check progress."
+  },
+  {
+    "id": 370,
+    "domain": "supervision_teaching",
+    "front": "How should a supervisor describe an unsafe action without labelling the learner?",
+    "back": "Describe what you observed and its effect. Say, \"The observations were not repeated after the fluid challenge,\" rather than calling the learner careless. Then agree the safer next action."
+  },
+  {
+    "id": 371,
+    "domain": "supervision_teaching",
+    "front": "How should a learner be invited to challenge a supervisor?",
+    "back": "Say, \"If I have missed a risk, please say so before we leave.\" Thank the learner when they speak, check the facts and change the plan if their concern is valid."
+  },
+  {
+    "id": 372,
+    "domain": "supervision_teaching",
+    "front": "Which four headings structure a useful debrief?",
+    "back": "Review what was supposed to happen, what happened, why it mattered and what will change. Ask for the learner's view and finish with a concrete next action."
+  },
+  {
+    "id": 373,
+    "domain": "supervision_teaching",
+    "front": "Why should the learner summarise their learning first?",
+    "back": "It reveals what they understood, helps them own the improvement and leaves room for you to correct only the gaps. Keep the correction specific and linked to evidence from the task."
+  },
+  {
+    "id": 374,
+    "domain": "supervision_teaching",
+    "front": "What must a teaching station's final action plan include?",
+    "back": "State the goal, what was practised, what the learner did well, the one change to make, the supervision level next time and the review date. Confirm the learner can repeat it."
+  },
+  {
+    "id": 375,
+    "domain": "supervision_teaching",
+    "front": "Which questions determine the correct level of supervision?",
+    "back": "Ask whether the learner can explain the task and risks, has done it recently, has a suitable patient and has immediate rescue support. Any uncertainty calls for closer supervision."
+  },
+  {
+    "id": 376,
+    "domain": "supervision_teaching",
+    "front": "What safety check must come before any bedside teaching?",
+    "back": "Confirm the patient's immediate needs and whether the bedside is safe for learning. Identify available rescue support, the supervision required and who remains clinically accountable if the learner performs the task."
+  },
+  {
+    "id": 377,
+    "domain": "supervision_teaching",
+    "front": "Which opening questions diagnose a learner's needs?",
+    "back": "Ask what the learner has done before, what they find difficult and what they want observed. Also confirm their role, experience and what support they expect before agreeing the teaching focus."
+  },
+  {
+    "id": 378,
+    "domain": "supervision_teaching",
+    "front": "What five steps form the five-step clinical teaching microskills model?",
+    "back": "Use the five-step microskills model: get the learner's commitment to a diagnosis or plan, probe for supporting evidence, teach a general rule, reinforce what was done correctly and correct mistakes. End by agreeing one specific next action. If teaching the broader sequence in this guide, call it the brief-demonstrate-observe-debrief sequence rather than the microskills model."
+  },
+  {
+    "id": 379,
+    "domain": "supervision_teaching",
+    "front": "What makes a teaching objective observable?",
+    "back": "Name a visible action and the situation in which it should happen. For example, ask the learner to complete a red-flag screen, summarise the findings and state a follow-up plan."
+  },
+  {
+    "id": 380,
+    "domain": "supervision_teaching",
+    "front": "How should ask-before-tell guide a teaching conversation?",
+    "back": "Ask what the learner aims to achieve, what risk concerns them and what they plan next. If stuck, offer graded prompts before giving the answer, then ask them to apply it to a second situation."
+  },
+  {
+    "id": 381,
+    "domain": "supervision_teaching",
+    "front": "What should a short demonstration make explicit?",
+    "back": "State the goal, show two or three critical steps and explain the cues behind them. Check equipment and patient safety, then hand the task back so the learner practises while you observe."
+  },
+  {
+    "id": 382,
+    "domain": "supervision_teaching",
+    "front": "How should a supervisor coach without taking over?",
+    "back": "Agree what you will observe, stay responsible for patient safety and give focused prompts only when needed. Stop the learner and lead immediately if the patient deteriorates or an unsafe action begins."
+  },
+  {
+    "id": 383,
+    "domain": "supervision_teaching",
+    "front": "What structured questions should guide feedback after an error?",
+    "back": "First make the patient safe. State what you observed and its effect, ask for the learner's view, identify system contributors and agree one next action. Escalate serious safety concerns through local governance and support routes."
+  },
+  {
+    "id": 384,
+    "domain": "supervision_teaching",
+    "front": "Which four questions determine the supervision level for this task?",
+    "back": "Can the learner explain the task and its risks? Have they performed it recently? Is this patient stable enough for learning? Is rescue support immediately available? Increase supervision when any answer is uncertain."
+  },
+  {
+    "id": 385,
+    "domain": "supervision_teaching",
+    "front": "How should a teaching station close the learning loop?",
+    "back": "Summarise the agreed goal, observed strengths, one change, the supervision level and the next practice task. Name who will review the learner and when, then record the plan under local supervision policy."
+  },
+  {
+    "id": 386,
+    "domain": "management",
+    "front": "What seven-question scan should open an emergency department capacity review?",
+    "back": "Scan immediate instability, time-critical patients, vulnerable waits, the next bottleneck, resources that can change it, actions to stop or delegate, and the next review time. Keep the scan practical and use local triggers."
+  },
+  {
+    "id": 387,
+    "domain": "management",
+    "front": "How should patients be ranked when emergency department demand exceeds capacity?",
+    "back": "Rank immediate airway, breathing, circulation, disability or exposure threats first. Then cover time-critical pathways, patients at risk from waiting, and routine work that can be delegated or delayed safely."
+  },
+  {
+    "id": 388,
+    "domain": "management",
+    "front": "What four steps create visible leadership control?",
+    "back": "Assess the whole department and likely changes, decide the single highest priority, allocate a named person and timeline, then review the effect. Repeat the cycle while risks or capacity change."
+  },
+  {
+    "id": 389,
+    "domain": "management",
+    "front": "How should a leader give an operational instruction?",
+    "back": "Name the person, state the task and deadline, and ask them to repeat it. Set a report-back point and confirm completion, rather than assuming that an instruction heard in a noisy area was understood."
+  },
+  {
+    "id": 390,
+    "domain": "management",
+    "front": "What belongs in a short patient safety huddle?",
+    "back": "Ask each area for its greatest current risk and expected change. Agree a small number of actions, name owners, set deadlines and record them in one place. Keep discussion focused on foreseeable patient harm."
+  },
+  {
+    "id": 391,
+    "domain": "management",
+    "front": "What must a safety huddle agree before people return to work?",
+    "back": "Agree the highest risks, the immediate actions, named owners, deadlines, the measure of success and the next huddle time. State the escalation trigger if those actions fail to reduce risk."
+  },
+  {
+    "id": 392,
+    "domain": "management",
+    "front": "How can a leader avoid focusing only on the loudest complaint?",
+    "back": "Map the whole patient pathway: arrivals, assessment waits, queues, unreassessed patients, pending results, admitted patients in department spaces, diagnostics, exit barriers and staffing. Then rank harm rather than noise."
+  },
+  {
+    "id": 393,
+    "domain": "management",
+    "front": "What identifies the next emergency department bottleneck?",
+    "back": "Find the constraint that currently limits safe movement or will limit it within the next period. Use observed queues, timestamps and staff feedback, then state why changing that point matters for patient risk."
+  },
+  {
+    "id": 394,
+    "domain": "management",
+    "front": "Which patients become higher priority during an emergency department wait?",
+    "back": "Reassess people with uncontrolled pain, dehydration, infection, frailty, pregnancy, safeguarding needs or inadequate observation. Also consider anyone whose mental state, mobility or breathing is changing from baseline."
+  },
+  {
+    "id": 395,
+    "domain": "management",
+    "front": "How should a scarce bed or clinician be allocated?",
+    "back": "Use immediate clinical need and preventable harm, explain the reasoning to the team and affected patients, assign safe interim observation and set a review time. Escalate if the remaining capacity is unsafe."
+  },
+  {
+    "id": 396,
+    "domain": "management",
+    "front": "What should a capacity escalation call contain?",
+    "back": "State the patient safety risk, capacity gap, current effect on care, actions already taken, help needed now and next update time. Ask for a specific decision and keep treating the sickest patients meanwhile."
+  },
+  {
+    "id": 397,
+    "domain": "management",
+    "front": "How should a leader make an escalation more useful than saying the department is busy?",
+    "back": "Describe measurable harm or immediate hazard, such as unreassessed deteriorating patients or no monitored space for a time-critical presentation. Link the evidence to the local escalation trigger and the decision requested."
+  },
+  {
+    "id": 398,
+    "domain": "management",
+    "front": "What departmental safeguards should remain during a resuscitation?",
+    "back": "Create a small functional resuscitation team and keep a nominated senior clinician for the rest of the department. Protect a route for the next critically unwell patient or escalate the inability to do so."
+  },
+  {
+    "id": 399,
+    "domain": "management",
+    "front": "What should continue while waiting for management or site support?",
+    "back": "Continue immediate clinical care, reassess waiting patients and reduce foreseeable harm. Give staff clear interim priorities, document the risk and keep a named escalation route open until capacity improves."
+  },
+  {
+    "id": 400,
+    "domain": "management",
+    "front": "What do strategic, tactical and operational command normally separate?",
+    "back": "Strategic command sets organisation-level priorities, tactical command coordinates resources and communication, and operational command manages the direct clinical response. Titles and arrangements vary, so use the local plan and brief terminology."
+  },
+  {
+    "id": 401,
+    "domain": "management",
+    "front": "Which information does a METHANE major incident report provide?",
+    "back": "Confirm a major incident is declared, then give exact location, type, hazards, access, casualty numbers and emergency services present or required. Follow the receiving organisation's local reporting format and read back key details."
+  },
+  {
+    "id": 402,
+    "domain": "management",
+    "front": "How can a leader demonstrate JESIP principles during an incident?",
+    "back": "Build one shared picture, name uncertainty, make joint decisions and check that messages are understood. Use clear communication and the command arrangements in the local multi-agency plan rather than inventing roles."
+  },
+  {
+    "id": 403,
+    "domain": "management",
+    "front": "How should a hospital major incident message be received and recorded?",
+    "back": "Record the time, caller and declared level. Confirm the facts, hazards, casualties, risk and request, then read important details back. State the immediate actions, accountable owner and time of the next update."
+  },
+  {
+    "id": 404,
+    "domain": "management",
+    "front": "How should multi-team situational awareness be maintained?",
+    "back": "Use one visible incident picture, name the current priorities and uncertainties, agree update times and confirm that each team received the same message. A sent message is not evidence that the receiver understood it."
+  },
+  {
+    "id": 405,
+    "domain": "management",
+    "front": "What is the first response to a suspected patient safety incident?",
+    "back": "Make the patient safe, stabilise the clinical situation and obtain senior help. Preserve essential information and follow local incident reporting. Learning and system review follow only after immediate patient care is secured."
+  },
+  {
+    "id": 406,
+    "domain": "management",
+    "front": "Which facts must be preserved after a clinical safety event?",
+    "back": "Record times, people present, equipment, observations, notes, messages, actions and the patient's condition. Keep original records unchanged and add contemporaneous corrections or clarifications through the approved local process."
+  },
+  {
+    "id": 407,
+    "domain": "management",
+    "front": "How should duty of candour be reflected in an incident conversation?",
+    "back": "Explain what happened honestly, acknowledge the harm or distress, apologise and state what will happen next. Arrange follow-up and review, then meet the applicable national and local candour requirements and record the discussion."
+  },
+  {
+    "id": 408,
+    "domain": "management",
+    "front": "How can a safety review separate individual action from system conditions?",
+    "back": "Examine the task, equipment, environment, team communication, workload, supervision and organisational pressures before assigning blame. Identify specific conditions that made the error possible and changes that reduce recurrence."
+  },
+  {
+    "id": 409,
+    "domain": "management",
+    "front": "What four stages form the Plan, Do, Study, Act improvement cycle?",
+    "back": "Plan one change and a measure, carry it out on a small scale, study the actual result against the measure, then act by adopting, adapting or stopping the change. Repeat with what the evidence shows."
+  },
+  {
+    "id": 410,
+    "domain": "management",
+    "front": "What defines a useful improvement measure?",
+    "back": "State what will be counted, for which patients or events, over what period and from which data source. Use a local standard or baseline rather than inventing a target. Review whether safety improved rather than activity increased."
+  },
+  {
+    "id": 411,
+    "domain": "management",
+    "front": "What are the immediate steps after a suspected medication error?",
+    "back": "Stop further exposure, assess the patient and support airway, breathing and circulation. Involve senior and pharmacy support, treat according to current guidance and local policy, monitor the response and preserve packaging and timing details."
+  },
+  {
+    "id": 412,
+    "domain": "management",
+    "front": "What makes a discharge pathway operationally and clinically complete?",
+    "back": "Confirm a working problem, clinical stability, safe medicines, follow-up ownership, social support, transport and warning signs. Check that the patient or carer can explain the plan and return if symptoms change."
+  },
+  {
+    "id": 413,
+    "domain": "management",
+    "front": "Which non-clinical barriers can prevent an otherwise ready patient from leaving?",
+    "back": "Look for missing medicines or prescriptions, transport delay, community support, equipment, documentation, social care or accommodation. Assign an owner and expected time for each barrier instead of treating the patient as clinically blocked."
+  },
+  {
+    "id": 414,
+    "domain": "management",
+    "front": "How should a senior board round prioritise work?",
+    "back": "Start with current physiological risk and time-critical pathways. For each patient state the decision needed, pending result, exit barrier, destination, owner and deadline. Delegate routine updates that do not need a senior decision."
+  },
+  {
+    "id": 415,
+    "domain": "management",
+    "front": "What should be confirmed before transferring a patient from the emergency department?",
+    "back": "Repeat the relevant assessment, secure monitoring and treatment, check packaging and escort needs, and obtain acceptance from the receiving team. Give the receiving clinician a clear handover with pending risks and family communication needs."
+  },
+  {
+    "id": 416,
+    "domain": "management",
+    "front": "How should access block be described without inventing a threshold?",
+    "back": "Use local definitions and timestamps to show admitted patients who remain in emergency department spaces and the care that is delayed. Report the trend, affected patients and immediate risk rather than quoting an unpublished universal limit."
+  },
+  {
+    "id": 417,
+    "domain": "management",
+    "front": "What is the immediate leadership task when there is only one senior clinician for several unstable patients?",
+    "back": "Use brief leadership for immediate stabilisation, allocate the limited expertise to the greatest reversible threat, call for more senior help and set rapid review points. Make the capacity gap explicit."
+  },
+  {
+    "id": 418,
+    "domain": "management",
+    "front": "What should a staff fatigue and task overload plan address?",
+    "back": "Rotate demanding roles, arrange breaks, reduce simultaneous high-risk tasks, add independent checks for medicines and escalate the staffing gap. Monitor for errors and ask staff directly whether the workload is safe."
+  },
+  {
+    "id": 419,
+    "domain": "management",
+    "front": "How should communication work when several teams respond to one incident?",
+    "back": "Agree a named communication route, share the same situation report and time-stamped updates, and confirm important messages by read-back. Avoid several teams sending different plans to the same treatment area."
+  },
+  {
+    "id": 420,
+    "domain": "management",
+    "front": "How should a leader manage the waiting area when capacity is unsafe?",
+    "back": "Use focused visual checks to find deterioration, give patients or groups named clinical ownership, set reassessment according to the local pathway, state call criteria and document the risks escalated."
+  },
+  {
+    "id": 421,
+    "domain": "management",
+    "front": "What makes an escalation trigger actionable?",
+    "back": "Tie it to a specific patient or system condition, such as a missed reassessment, unavailable critical resource or unsafe staffing gap. Name who must respond, what they must do and when the situation will be reviewed."
+  },
+  {
+    "id": 422,
+    "domain": "management",
+    "front": "What should a relative hear when an admitted patient is delayed in the emergency department?",
+    "back": "Explain what is stable now, what care continues and why the next step is blocked. Give a truthful update time, warning signs that need immediate staff attention and a route to raise a new safety concern."
+  },
+  {
+    "id": 423,
+    "domain": "management",
+    "front": "How should a capacity disagreement with another department begin?",
+    "back": "Start with shared patient facts, current risk and the decision required. Explain the effect of delay, ask for a specific response time and escalate through the local pathway if safe care remains unavailable."
+  },
+  {
+    "id": 424,
+    "domain": "management",
+    "front": "What should a team leader do when too many clinicians surround a resuscitation trolley?",
+    "back": "Define the roles needed, ask clinicians without a role to step back and keep the working space clear. Maintain sight of the patient, monitor and team while preserving access for procedures and help."
+  },
+  {
+    "id": 425,
+    "domain": "management",
+    "front": "What must a flow-focused handover make clear?",
+    "back": "State the situation and current risk, care already delivered, pending items, named owner, destination, expected timeframe and escalation point. The receiver should not need to reconstruct what remains undone."
+  },
+  {
+    "id": 426,
+    "domain": "management",
+    "front": "What should happen when a potentially unsafe discharge is recognised?",
+    "back": "Contact the patient urgently through the local recall pathway, arrange senior review and safe care, and document the decision and actions. Review the event through local incident and governance processes while supporting those involved."
+  },
+  {
+    "id": 427,
+    "domain": "management",
+    "front": "What elements make a local capacity escalation pathway usable?",
+    "back": "It should define observable triggers, authorised call routes, expected responses, review points, documentation and how actions are tracked. Use the organisation's current policy rather than assuming one universal threshold."
+  },
+  {
+    "id": 428,
+    "domain": "management",
+    "front": "How should a decision about opening an escalation space be assessed?",
+    "back": "Quantify the patients at immediate or foreseeable risk, the staff and equipment needed, and whether the space can be made safe. Use the local plan and avoid moving harm into another clinical area."
+  },
+  {
+    "id": 429,
+    "domain": "management",
+    "front": "How should fairness be protected when resources are scarce?",
+    "back": "Apply clinical need and risk of preventable harm consistently, explain unavoidable differences, offer safe interim care and review decisions. Do not let complaint volume, familiarity or personal characteristics alter priority."
+  },
+  {
+    "id": 430,
+    "domain": "management",
+    "front": "How should a management station close its operational loop?",
+    "back": "Summarise the main risk, actions completed, named owners, next review time, escalation route and measure of success. State what will be done if capacity or patient safety does not improve."
+  },
+  {
+    "id": 431,
+    "domain": "critical_appraisal",
+    "front": "What should you state first when appraising a clinical paper?",
+    "back": "State the clinical question in one sentence before judging the method. For treatment or service questions use population, intervention or exposure, comparator and outcome. Check that the study addresses every part."
+  },
+  {
+    "id": 432,
+    "domain": "critical_appraisal",
+    "front": "Which elements define a diagnostic accuracy question?",
+    "back": "Identify the target population, index test, reference standard and target condition. Ask whether the reference standard was applied fairly and whether the study included the uncertain patients seen in real practice."
+  },
+  {
+    "id": 433,
+    "domain": "critical_appraisal",
+    "front": "Which elements define a prognosis question?",
+    "back": "Identify the population, prognostic factor, outcome and time horizon. Check whether follow-up began at a consistent point, was long enough for the outcome and captured people who left the study."
+  },
+  {
+    "id": 434,
+    "domain": "critical_appraisal",
+    "front": "When should a study use median and interquartile range?",
+    "back": "Use median and interquartile range for skewed data or outcomes sensitive to extreme values, such as waiting time, length of stay, pain score or time to treatment. Explain whether the distribution makes those summaries more informative than a mean and standard deviation."
+  },
+  {
+    "id": 435,
+    "domain": "critical_appraisal",
+    "front": "What decisions should be appraised in a cohort study?",
+    "back": "Ask how the exposed and unexposed groups were selected, whether follow-up was complete and whether measured or unmeasured factors could confound the association. Cohort evidence often suits prognosis, harm or prognosis-related questions."
+  },
+  {
+    "id": 436,
+    "domain": "critical_appraisal",
+    "front": "How should you critique sample size and power without calculating?",
+    "back": "Identify the primary outcome, the effect or precision the authors planned to detect, the assumed power and significance level, the dropout allowance, and whether these assumptions were pre-specified and realistic. Ask whether the study could miss the smallest clinically useful effect."
+  },
+  {
+    "id": 437,
+    "domain": "critical_appraisal",
+    "front": "How should sensitivity and specificity be interpreted?",
+    "back": "Sensitivity is the proportion with disease who test positive; specificity is the proportion without disease who test negative. High sensitivity supports rule out, high specificity supports rule in, but predictive values also depend on prevalence. Accuracy alone does not prove better patient outcomes."
+  },
+  {
+    "id": 438,
+    "domain": "critical_appraisal",
+    "front": "When is a qualitative study valuable in the critical appraisal station?",
+    "back": "Qualitative work can explain experiences, barriers and how a pathway works in context. It does not estimate a treatment effect. Ask whether sampling, data collection and interpretation credibly support the themes."
+  },
+  {
+    "id": 439,
+    "domain": "critical_appraisal",
+    "front": "Which four broad areas organise an internal validity appraisal?",
+    "back": "Assess selection, measurement, confounding and analysis. Decide which weakness could most plausibly change the direction or size of the result, then explain why that matters for the clinical claim."
+  },
+  {
+    "id": 440,
+    "domain": "critical_appraisal",
+    "front": "Which selection questions must be asked about study participants?",
+    "back": "Ask who was included, excluded or declined, how they were identified and whether comparison groups were comparable. In diagnostic research, check whether easy or obvious cases produced an inflated impression of accuracy."
+  },
+  {
+    "id": 441,
+    "domain": "critical_appraisal",
+    "front": "How does measurement bias threaten a clinical study?",
+    "back": "Assessors who know the treatment may look harder for benefit or harm. Recall and reporting can also distort exposure histories. The risk matters most when outcomes are subjective or measurement is inconsistent between groups."
+  },
+  {
+    "id": 442,
+    "domain": "critical_appraisal",
+    "front": "What must be asked about confounding in an observational study?",
+    "back": "Identify factors linked to both exposure and outcome. Check whether they were measured reliably and adjusted for. Adjustment cannot remove confounding from an important factor that was never recorded."
+  },
+  {
+    "id": 443,
+    "domain": "critical_appraisal",
+    "front": "How do intention-to-treat and per-protocol analyses answer different questions?",
+    "back": "Intention-to-treat estimates the effect of offering the intervention under real-world uptake. Per-protocol estimates the effect among people who received it as planned but can introduce selection problems. Match the analysis to the claim."
+  },
+  {
+    "id": 444,
+    "domain": "critical_appraisal",
+    "front": "What must be judged when study data are missing?",
+    "back": "Assess how much is missing, which patients are missing, the likely reasons and how the authors handled the gaps. Ask whether plausible assumptions could change the conclusion, even without performing a calculation."
+  },
+  {
+    "id": 445,
+    "domain": "critical_appraisal",
+    "front": "Why does follow-up completeness matter?",
+    "back": "People who leave the study may differ in prognosis from those retained. Ask why follow-up ended, whether losses related to benefit or harm, and whether the time horizon captured the outcomes patients and services care about."
+  },
+  {
+    "id": 446,
+    "domain": "critical_appraisal",
+    "front": "How should the size and confidence interval of a result be discussed without calculating?",
+    "back": "Describe whether the estimated effect looks large or small, whether the interval is narrow or wide, and whether it crosses no important effect. Wide uncertainty limits confidence even when the headline estimate appears favourable."
+  },
+  {
+    "id": 447,
+    "domain": "critical_appraisal",
+    "front": "What does a p value not tell you?",
+    "back": "A p value does not give the probability that the treatment works, the size of the benefit or whether patients would notice it. It tests compatibility with a statistical model rather than clinical usefulness."
+  },
+  {
+    "id": 448,
+    "domain": "critical_appraisal",
+    "front": "How do statistical significance and clinical importance differ?",
+    "back": "A statistically significant result may be too small to affect symptoms, function or length of stay. An important patient benefit may lack statistical certainty in a small study. Judge the outcome, effect size and uncertainty together."
+  },
+  {
+    "id": 449,
+    "domain": "critical_appraisal",
+    "front": "Why must baseline risk be considered when hearing a relative effect?",
+    "back": "The same relative change can help many or very few people depending on how often the outcome occurs. Compare it with the patient population, seriousness of the event and feasibility of the intervention."
+  },
+  {
+    "id": 450,
+    "domain": "critical_appraisal",
+    "front": "Which safety and burden questions belong in a treatment appraisal?",
+    "back": "Ask whether harms were collected systematically, including rare serious events and patient burden. Consider staff workload, cost, waiting time, equity and whether the NHS setting can deliver the intervention as studied."
+  },
+  {
+    "id": 451,
+    "domain": "critical_appraisal",
+    "front": "When is a subgroup result more believable?",
+    "back": "Give more weight when the subgroup was pre-specified, biologically plausible and supported by a credible interaction test. A dramatic result discovered after several analyses in a small group may be chance."
+  },
+  {
+    "id": 452,
+    "domain": "critical_appraisal",
+    "front": "How should a composite outcome be appraised?",
+    "back": "Check whether every component matters to patients and whether one component drove the overall result. A composite can hide benefit in one outcome and harm in another, so inspect the components."
+  },
+  {
+    "id": 453,
+    "domain": "critical_appraisal",
+    "front": "Which population factors affect external validity?",
+    "back": "Compare age, sex, pregnancy status, comorbidity, severity, language and social circumstances with your emergency department. State where the evidence feels applicable and where important uncertainty remains."
+  },
+  {
+    "id": 454,
+    "domain": "critical_appraisal",
+    "front": "Which setting factors affect whether a study result can transfer to UK practice?",
+    "back": "Consider specialist versus district general care, staffing, pre-hospital pathways, diagnostics, time to treatment and resource availability. A result can be internally valid yet impracticable in your local system."
+  },
+  {
+    "id": 455,
+    "domain": "critical_appraisal",
+    "front": "Which intervention and comparator details affect applicability?",
+    "back": "Ask who delivered the intervention, what training and equipment were required, and what usual care was compared. Benefit against an outdated or weaker comparator may not apply to current UK practice."
+  },
+  {
+    "id": 456,
+    "domain": "critical_appraisal",
+    "front": "How are positive and negative likelihood ratios interpreted?",
+    "back": "A high positive likelihood ratio makes disease more likely after a positive result. A low negative likelihood ratio makes disease less likely after a negative result. Link the shift to pretest probability, the harm of missing disease and the next clinical action without doing arithmetic."
+  },
+  {
+    "id": 457,
+    "domain": "critical_appraisal",
+    "front": "Which integrity questions should be asked about a published paper?",
+    "back": "Check funding, conflicts of interest, adherence to the protocol and consistency between methods and reported outcomes. Ask whether selective reporting or publication bias could distort the evidence available for review."
+  },
+  {
+    "id": 458,
+    "domain": "critical_appraisal",
+    "front": "Why do randomisation and allocation concealment support a causal interpretation?",
+    "back": "They reduce systematic differences between groups before treatment starts. Without adequate concealment, clinicians may influence who enters a group, creating imbalance in prognosis that statistical adjustment may not repair."
+  },
+  {
+    "id": 459,
+    "domain": "critical_appraisal",
+    "front": "When does lack of blinding most affect a study result?",
+    "back": "It matters most when participants, clinicians or assessors can influence subjective outcomes or co-interventions. Lack of blinding does not automatically invalidate objective outcomes such as death, but it still needs judgement."
+  },
+  {
+    "id": 460,
+    "domain": "critical_appraisal",
+    "front": "What should be asked when a trial changes its outcome or analysis?",
+    "back": "Check whether the primary outcome was switched after data inspection, whether the change was explained and whether the protocol and report agree. Outcome switching can make a chance finding look confirmatory."
+  },
+  {
+    "id": 461,
+    "domain": "critical_appraisal",
+    "front": "Why should an early-stopped trial be appraised carefully?",
+    "back": "Early stopping can exaggerate an apparent benefit and leave uncertainty about harms. Check whether stopping rules and an independent monitoring plan were pre-specified and whether the result is consistent with other evidence."
+  },
+  {
+    "id": 462,
+    "domain": "critical_appraisal",
+    "front": "What question must be asked when a paper claims non-inferiority?",
+    "back": "Identify the acceptable non-inferiority margin and whether it was justified before the study. The intervention must not be unacceptably worse on an important outcome, and the confidence interval must support that claim."
+  },
+  {
+    "id": 463,
+    "domain": "critical_appraisal",
+    "front": "What should you do when you cannot remember an exact result?",
+    "back": "Do not invent a number. State what you remember about the direction, magnitude and uncertainty, then explain how that affects validity or practice. Use the paper's confidence interval and important limitations to keep the answer bounded."
+  },
+  {
+    "id": 464,
+    "domain": "critical_appraisal",
+    "front": "Which facts should the reading station refresh before critical appraisal?",
+    "back": "Refresh the question, design, population, comparator, primary outcome, headline result, confidence interval, follow-up and top limitations. Do not try to relearn the paper or prepare a formal summary from scratch."
+  },
+  {
+    "id": 465,
+    "domain": "critical_appraisal",
+    "front": "How should the first minute of the critical appraisal discussion be used?",
+    "back": "Establish the clinical question, study design and decision the paper might inform. This creates the map for the guided conversation and lets the examiner see whether you understand what the study was trying to answer."
+  },
+  {
+    "id": 466,
+    "domain": "critical_appraisal",
+    "front": "Which issues belong in the early internal validity discussion?",
+    "back": "Discuss the participants, selection, comparator, outcome and completeness of follow-up. Identify the one or two threats most likely to distort the result rather than listing every minor imperfection without ranking."
+  },
+  {
+    "id": 467,
+    "domain": "critical_appraisal",
+    "front": "How should the main result be linked to internal validity?",
+    "back": "State the outcome, direction and important uncertainty, then explain how the leading bias or missing data could move the result. Separate a small imperfection from a flaw capable of changing the clinical conclusion."
+  },
+  {
+    "id": 468,
+    "domain": "critical_appraisal",
+    "front": "Which harms and subgroup findings need focused discussion?",
+    "back": "Highlight serious or patient-relevant harms, whether they were captured systematically, and any subgroup likely to change practice. Give most weight to pre-specified, plausible analyses supported by appropriate interaction testing."
+  },
+  {
+    "id": 469,
+    "domain": "critical_appraisal",
+    "front": "How should external validity be concluded for UK emergency care?",
+    "back": "Compare the population, setting, intervention delivery, comparator and resources with UK practice. Say where the evidence is credible, where it is uncertain and what local safeguards would be needed before use."
+  },
+  {
+    "id": 470,
+    "domain": "critical_appraisal",
+    "front": "What final decision should close a critical appraisal answer?",
+    "back": "Choose to adopt, pilot, discuss with a guideline group, audit or wait for more evidence. State who owns the decision, how current guidance and wider evidence fit, and what would trigger review. No calculation is required."
+  },
+  {
+    "id": 471,
+    "domain": "circuit_integration",
+    "front": "What should happen immediately when the reading minute ends?",
+    "back": "Enter the station and begin the first safe action without waiting for a prompt. Use your prepared opening, confirm immediate risk and make the task purpose clear to the patient, learner or team."
+  },
+  {
+    "id": 472,
+    "domain": "circuit_integration",
+    "front": "How should the station domain pie chart change your visible behaviour?",
+    "back": "Spend the strongest effort on the largest domains shown. For example, verbalise clinical reasoning, demonstrate examination, use clear team instructions or explain teaching feedback so the examiners can mark observable performance."
+  },
+  {
+    "id": 473,
+    "domain": "circuit_integration",
+    "front": "When should information gathering stop in a station?",
+    "back": "Stop when you have enough information to choose and state a safe next action. Continue only when the answer would change immediate risk, treatment, investigation, destination or escalation."
+  },
+  {
+    "id": 474,
+    "domain": "circuit_integration",
+    "front": "How should you reprioritise after a new critical finding?",
+    "back": "Say that the priority has changed, pause lower-value discussion or tasks and return to the threatened system. Explain the new risk and the immediate action so the examiner sees deliberate reprioritisation rather than silent worry."
+  },
+  {
+    "id": 475,
+    "domain": "circuit_integration",
+    "front": "What should you do when the station brief omits information needed for a safe decision?",
+    "back": "State the uncertainty and make a safe interim plan. Ask for the missing observation, test or collateral history, specify what would change management and arrange review. Do not invent a result to complete the picture."
+  },
+  {
+    "id": 476,
+    "domain": "circuit_integration",
+    "front": "When should you begin closing an eight-minute station?",
+    "back": "Begin the closure with about one minute remaining. Stop opening new lines of inquiry and state what you think is happening, what has been done, what remains and who owns the next step."
+  },
+  {
+    "id": 477,
+    "domain": "circuit_integration",
+    "front": "What must the final station summary include?",
+    "back": "State the working problem or decision, actions taken, pending issues, observation or supervision plan, disposition, responsible clinician and review trigger. Tell the patient or learner what they should watch for and how to seek help."
+  },
+  {
+    "id": 478,
+    "domain": "circuit_integration",
+    "front": "How should you hand over when time ends before the task is complete?",
+    "back": "State the safest unfinished action first, the current clinical position, pending risks, the named receiver and the next review time. Do not imply that an incomplete task or investigation has already been completed."
+  },
+  {
+    "id": 479,
+    "domain": "circuit_integration",
+    "front": "What reset should you use after feeling that a station went badly?",
+    "back": "Use a short physical reset, leave the previous station behind and reread the next task. You cannot know the score, so protect attention for the patient, learner or operational problem now in front of you."
+  },
+  {
+    "id": 480,
+    "domain": "circuit_integration",
+    "front": "How should a practice rest station be used?",
+    "back": "Attend to water, food, toilet and brief physical movement, then reset attention and check the next task. Avoid a full post-mortem of the previous station. Rest positions in the real examination are not published."
+  },
+  {
+    "id": 481,
+    "domain": "circuit_integration",
+    "front": "What verbal checkpoint can help when no station clock is visible?",
+    "back": "After the first assessment, say that you now know the immediate priorities and will use the next part to act and plan. Create another checkpoint before closure rather than guessing exact elapsed time."
+  },
+  {
+    "id": 482,
+    "domain": "circuit_integration",
+    "front": "How should leadership pass during a resuscitation procedure?",
+    "back": "State aloud who is taking team leadership and why, then confirm the new leader has heard. The proceduralist should focus on the task while another clinician maintains the team overview and next priorities."
+  },
+  {
+    "id": 483,
+    "domain": "circuit_integration",
+    "front": "How should a crowded resuscitation station be organised?",
+    "back": "Assign the roles needed, ask non-essential people to step back and keep access to the patient and equipment clear. Maintain a visible leader position and confirm that every critical task has one named owner."
+  },
+  {
+    "id": 484,
+    "domain": "circuit_integration",
+    "front": "How should you respond when an actor challenges your competence?",
+    "back": "Acknowledge the concern, return to the observed clinical facts and explain the safety process. Offer senior review when risk remains, rather than arguing about status or becoming defensive."
+  },
+  {
+    "id": 485,
+    "domain": "circuit_integration",
+    "front": "How can you demonstrate safe uncertainty in a station?",
+    "back": "State what is known, what remains uncertain and what immediate safeguards are in place. Name the test, observation or senior review that will reduce uncertainty and the trigger for urgent escalation."
+  },
+  {
+    "id": 486,
+    "domain": "circuit_integration",
+    "front": "Which test should you request in a time-limited station?",
+    "back": "Choose a test that answers a specific question and can change immediate management, destination or escalation. Consider the result time, transport risk and whether the patient is stable enough to wait."
+  },
+  {
+    "id": 487,
+    "domain": "circuit_integration",
+    "front": "When should you call a senior clinician during a station?",
+    "back": "Call when the patient is deteriorating, the task exceeds your competence or authority, a time-critical pathway is delayed, or safeguarding, capacity or legal risk needs specialist support. State the specific decision needed."
+  },
+  {
+    "id": 488,
+    "domain": "circuit_integration",
+    "front": "What makes a disposition complete in the final answer?",
+    "back": "Name the destination and reason, confirm the receiving team accepts responsibility, state observation and treatment needs, pending actions and review timing. Include the safety net and who will communicate with the patient or family."
+  },
+  {
+    "id": 489,
+    "domain": "circuit_integration",
+    "front": "How should you begin a written station?",
+    "back": "Read the task twice, confirm the required output and page count, then identify the highest-risk decision. Structure the answer under priority problem, immediate action, further assessment, escalation, disposition and review."
+  },
+  {
+    "id": 490,
+    "domain": "circuit_integration",
+    "front": "How should current clinical guidance shape an immediate station answer?",
+    "back": "Apply the decision principle and state that doses, energy settings or pathways require current RCEM, Resuscitation Council UK and local guidance in clinical care. Use the station materials and do not present an uncertain detail as fact."
+  },
+  {
+    "id": 491,
+    "domain": "circuit_integration",
+    "front": "What should you do if you cannot recall a precise guideline detail?",
+    "back": "Say what decision you need and what you would check before acting. Use the safe pathway, senior support and current reference rather than inventing a dose, threshold or unpublished rule. Keep immediate patient safety visible."
+  },
+  {
+    "id": 492,
+    "domain": "circuit_integration",
+    "front": "What common method connects different FRCEM OSCE station types?",
+    "back": "Identify the user, goal and immediate harm, gather decision-changing information, act in priority order, reassess, communicate the plan and state escalation. The same method is expressed through clinical, teaching or management behaviour."
+  },
+  {
+    "id": 493,
+    "domain": "circuit_integration",
+    "front": "What checks should precede a procedure in any station?",
+    "back": "Confirm indication, patient identity and the correct site, then address consent or capacity. Check allergies, equipment, monitoring, sterility and rescue arrangements, explain the steps and state the plan if the procedure fails."
+  },
+  {
+    "id": 494,
+    "domain": "circuit_integration",
+    "front": "What must happen after every major clinical intervention?",
+    "back": "Reassess the relevant physiology, the intended effect, complications and the patient's response. State whether the intervention worked, what remains unresolved and the next action or escalation trigger."
+  },
+  {
+    "id": 495,
+    "domain": "circuit_integration",
+    "front": "How should you communicate during a time-critical patient task?",
+    "back": "Explain what you are doing and why, warn about pain or discomfort and offer safe choices where possible. Give brief updates, check understanding and keep the patient informed when responsibility changes."
+  },
+  {
+    "id": 496,
+    "domain": "circuit_integration",
+    "front": "How should SBAR organise a station referral?",
+    "back": "Give the situation and immediate risk, relevant background, your assessment and the recommendation required. Include key observations, treatment, response, pending results and the exact specialty decision you need."
+  },
+  {
+    "id": 497,
+    "domain": "circuit_integration",
+    "front": "What first moves should prepare any resuscitation station?",
+    "back": "Confirm the emergency state, call for help and assign roles for compressions, airway, monitoring, access, drugs, procedures and timekeeping. State the immediate priorities and working reversible causes while following the current Resuscitation Council UK algorithm."
+  },
+  {
+    "id": 498,
+    "domain": "circuit_integration",
+    "front": "How should you approach the published resuscitation requirement on exam day?",
+    "back": "Prepare all three resuscitation stations, because one pass is required alongside the overall standard. RCEM does not publish a future diet's numerical pass mark, so focus on safe, prioritised, team-based care rather than a rumoured threshold."
+  },
+  {
+    "id": 499,
+    "domain": "circuit_integration",
+    "front": "Which practical checks should be completed before examination day?",
+    "back": "Check the current RCEM regulations and candidate instructions for the venue, arrival time, identification, permitted materials and equipment. Travel disruption or social media claims cannot safely replace the official candidate information."
+  },
+  {
+    "id": 500,
+    "domain": "circuit_integration",
+    "front": "How should you finish a practice circuit and plan the next station?",
+    "back": "Review one observable strength and one observable change, then choose the next practice target. Verify current RCEM rules separately and avoid treating the practice tool's rest placement or station examples as an official exam order."
+  }
+]
